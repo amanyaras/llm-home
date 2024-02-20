@@ -1,0 +1,1586 @@
+iphone 5c/type
+iphone/type
+iphone 5/type
+ipad 4/type
+ipad/type
+nzone 50 pro(sp210)/type
+nzone 50 pro/type
+nzone/type
+p30 pro(vog-l29)/type
+p30 pro/type
+p30/type
+p30 pro(vog-tl00)/type
+p30 pro(vog-al10)/type
+p30 pro(vog-al00)/type
+p30(ele-l29)/type
+p30(ele-tl00)/type
+p30(ele-al00)/type
+p20 pro(clt-tl01)/type
+p20 pro/type
+p20/type
+p20 pro(clt-tl00)/type
+p20 pro(clt-al01)/type
+p20 pro(clt-al00)/type
+p20(eml-al00)/type
+p20(eml-tl00)/type
+mate30 pro 5g(lio-tn00)/type
+mate30 pro 5g/type
+mate30/type
+mate30 pro 5g(lio-an00)/type
+mate30 pro(lio-tl00)/type
+mate30 pro/type
+mate30 pro(lio-al00)/type
+mate30e pro(lio-an00m)/type
+mate30e pro/type
+mate30e/type
+mate30e pro(lio-tn00m)/type
+mate30 5g(tas-tn00)/type
+mate30 5g/type
+mate30 5g(tas-an00)/type
+mate30 保时捷(lio-tn00p)/type
+mate30 保时捷/type
+mate30 保时捷(lio-an00p)/type
+mate30(tas-al00)/type
+mate30(tas-tl00)/type
+mate20 pro(lya-tl00)/type
+mate20 pro/type
+mate20/type
+mate20 pro(lya-al10)/type
+mate20 pro(lya-al00)/type
+mate20 rs保时捷(lya-tl00p)/type
+mate20 rs保时捷/type
+mate20 rs保时捷(lya-al00p)/type
+mate20 x 5g(evr-tn00)/type
+mate20 x 5g/type
+mate20 x 5g(evr-an00)/type
+mate20 x(evr-tl00)/type
+mate20 x/type
+mate20 x(evr-al00)/type
+mate20(hma-tl00)/type
+mate20(hma-al00)/type
+nova8 pro 5g(brq-an00)/type
+nova8 pro 5g/type
+nova8/type
+nova8 pro 4g(brq-al00)/type
+nova8 pro 4g/type
+nova8 pro(brq-tn00)/type
+nova8 pro/type
+nova8 se(jsc-an00)/type
+nova8 se/type
+nova7 pro(jer-an20)/type
+nova7 pro/type
+nova7/type
+nova7 pro(jer-an10)/type
+nova7 se 乐活版(cdl-an50)/type
+nova7 se 乐活版/type
+nova7 se(cdy-tn00)/type
+nova7 se/type
+nova7 se(cdy-an20)/type
+nova7 se(cdy-an00)/type
+nova7 se 5g 活力版(cnd-an00)/type
+nova7 se 5g 活力版/type
+nova7(jef-an00)/type
+nova7(jef-an10)/type
+nova7(jef-an20)/type
+nova7(jef-tn00)/type
+nova6(wlz-tn00)/type
+nova6/type
+nova6(wlz-tl00)/type
+nova6(wlz-al10)/type
+nova6(wlz-al00)/type
+nova6(wlz-an00)/type
+nova6 se(jny-al10)/type
+nova6 se/type
+mate10 保时捷(bla-tl00p)/type
+mate10 保时捷/type
+mate10/type
+mate10 保时捷(bla-al00p)/type
+mate10 pro(bla-tl00)/type
+mate10 pro/type
+mate10 pro(bla-al00)/type
+mate10(alp-tl00)/type
+mate10(alp-al00)/type
+mate9 pro(lon-tl00)/type
+mate9 pro/type
+mate9/type
+mate9 pro(lon-al00)/type
+mate9(mha-al00)/type
+mate8(nxt-tl00)/type
+mate8/type
+mate8(nxt-dl00)/type
+mate8(nxt-cl00)/type
+mate8(nxt-al10)/type
+mate7(mt7-ul00)/type
+mate7/type
+mate7(mt7-tl10)/type
+mate7(mt7-tl00)/type
+mate7(mt7-cl00)/type
+matexs(tah-an00m)/type
+matexs/type
+matexs(tah-tn00m)/type
+matex(tah-tn00)/type
+matex/type
+matex 5g(tah-an00)/type
+matex 5g/type
+matex(tah-an00)/type
+mate rs保时捷(neo-tl00)/type
+mate rs保时捷/type
+mate/type
+mate rs保时捷(neo-al00)/type
+nova5 pro(sea-al10)/type
+nova5 pro/type
+nova5/type
+nova5(sea-tl00)/type
+nova5(sea-al00)/type
+nova5z(spn-al00)/type
+nova5z/type
+nova5i pro(spn-tl00)/type
+nova5i pro/type
+nova5i/type
+nova5i(glk-tl00)/type
+nova5i(glk-al00)/type
+nova4e(mar-al10)/type
+nova4e/type
+nova4e(mar-al00)/type
+nova4e(mar-tl00)/type
+nova4(vce-al00)/type
+nova4/type
+nova4(vce-tl00)/type
+nova3i(ine-al00)/type
+nova3i/type
+nova3i(ine-tl00)/type
+nova3e(ane-tl10)/type
+nova3e/type
+nova3e(ane-al10)/type
+nova3e(ane-al00)/type
+nova3e(ane-tl00)/type
+nova3(par-al01)/type
+nova3/type
+nova3(par-al00)/type
+nova3(par-tl00)/type
+nova2 plus(bac-al00)/type
+nova2 plus/type
+nova2/type
+nova2 plus(bac-tl00)/type
+p10 plus(vky-tl00)/type
+p10 plus/type
+p10/type
+p10 plus(vky-al00)/type
+p10(vtr-tl00)/type
+p10(vtr-al00)/type
+p9 plus(vie-l29)/type
+p9 plus/type
+p9/type
+p9 plus(vie-l09)/type
+p9 plus(vie-al10)/type
+p9(eva-tl00)/type
+p9(eva-l29)/type
+p9(eva-l19)/type
+p9(eva-l09)/type
+p9(eva-dl00)/type
+p9(eva-cl00)/type
+p9(eva-al10)/type
+p9(eva-al00)/type
+p8(gra-ul10)/type
+p8/type
+p8(gra-ul00)/type
+p8(gra-tl10)/type
+p8(gra-tl00)/type
+p8(gra-cl10)/type
+p8(gra-cl00)/type
+p8青春版(ale-cl00)/type
+p8青春版/type
+麦芒11 5g(tyh622m)/type
+麦芒11 5g/type
+麦芒11/type
+麦芒9电信版(tyh601m)/type
+麦芒9电信版/type
+麦芒9(tnn-an00)/type
+麦芒9/type
+麦芒8(pot-al10)/type
+麦芒8/type
+麦芒8(pot-tl00)/type
+麦芒7(sne-tl00)/type
+麦芒7/type
+麦芒7(sne-al00)/type
+麦芒6(rne-tl00)/type
+麦芒6/type
+麦芒6(rne-al00)/type
+nzone s7 pro+ 5g(sp300)/type
+nzone s7 pro+ 5g/type
+nzone s7 pro 5g(sp200)/type
+nzone s7 pro 5g/type
+nzone s7(sp100)/type
+nzone s7/type
+畅享z(dvc-an00)/type
+畅享z/type
+优畅享20 5g(vp002)/type
+优畅享20 5g/type
+优畅享20/type
+畅享20 plus 5g(frl-an00a)/type
+畅享20 plus 5g/type
+畅享20/type
+畅享20 pro(dvc-tn20)/type
+畅享20 pro/type
+畅享20 5g(wkg-an00)/type
+畅享20 5g/type
+畅享20se(ppah-al20)/type
+畅享20se/type
+畅享20se(ppa-al20)/type
+畅享10s(aqm-tl00)/type
+畅享10s/type
+畅享10s(aqm-al00)/type
+畅享10 plus(stk-al00)/type
+畅享10 plus/type
+畅享10/type
+畅享10 plus(stk-tl00)/type
+畅享10e(med-al00)/type
+畅享10e/type
+畅享10(arth-tl00x)/type
+畅享10(arth-tl00)/type
+畅享10(arth-al00)/type
+畅享10(arth-al00x)/type
+畅享10(art-tl00x)/type
+畅享10(art-al00x)/type
+畅享10(art-al00)/type
+畅享9s(pot-tl00d)/type
+畅享9s/type
+畅享9s(pot-al10a)/type
+畅享9s(pot-tl00a)/type
+畅享9s(pot-al00a)/type
+畅享9 plus(jkm-tl00b)/type
+畅享9 plus/type
+畅享9/type
+畅享9 plus(jkm-tl00a)/type
+畅享9 plus(jkm-al00)/type
+畅享9 plus(jkm-tl00)/type
+畅享9 plus(jkm-al00b)/type
+畅享9 plus(jkm-al00a)/type
+畅享8 plus(fla-tl10)/type
+畅享8 plus/type
+畅享8/type
+畅享8 plus(fla-al20)/type
+畅享8 plus(fla-al10)/type
+畅享6(nce-tl10)/type
+畅享6/type
+畅享5s(tag-al00)/type
+畅享5s/type
+畅享5(tit-tl00)/type
+畅享5/type
+畅享5(tit-cl10)/type
+畅享5定制版(tit-al00)/type
+畅享5定制版/type
+畅享5全网通(tit-al00)/type
+畅享5全网通/type
+g510(u8951)/type
+g510/type
+g510(t8951)/type
+x30 max(kkg-an70)/type
+x30 max/type
+x30/type
+x30i(tfy-an00)/type
+x30i/type
+x20(ntn-an20)/type
+x20/type
+x20 se(chl-an00)/type
+x20 se/type
+v40(yok-an10)/type
+v40/type
+v40轻奢版(ala-an70)/type
+v40轻奢版/type
+v30 pro 5g(oxf-an10)/type
+v30 pro 5g/type
+v30/type
+v30(oxf-tn00)/type
+v30(oxf-an00)/type
+v20(pct-tl00p)/type
+v20/type
+v20(pct-tl00)/type
+v20(pct-al00p)/type
+v20(pct-al00)/type
+v20(pct-al10)/type
+60 se(gia-an00)/type
+60 se/type
+60/type
+50 se(jlh-an00)/type
+50 se/type
+50/type
+30青春版(mxw-tn00)/type
+30青春版/type
+30 pro+(ebg-an10)/type
+30 pro+/type
+30/type
+30 pro(ebg-an00)/type
+30 pro/type
+30 pro(ebg-tn00)/type
+30s(cdy-an95)/type
+30s/type
+30s(cdy-an90)/type
+30(bmh-an20)/type
+30(bmh-an10)/type
+20 pro(yal-al10)/type
+20 pro/type
+20/type
+20s(yal-al50)/type
+20s/type
+20i(hry-tl00ta)/type
+20i/type
+20i(hry-al00ta)/type
+20(yal-tl00)/type
+20(yal-al00)/type
+20青春版(lra-tl00)/type
+20青春版/type
+20青春版(lra-al00)/type
+x10 max(kkg-an00)/type
+x10 max/type
+x10/type
+play6t(cma-an40)/type
+play6t/type
+play5(hjc-an90)/type
+play5/type
+play5t活力版(nza-al00)/type
+play5t活力版/type
+play4 pro(oxp-an00)/type
+play4 pro/type
+play4/type
+play4 pro(oxp-tn00)/type
+play4(tnnh-an00)/type
+play4t(aka-al10)/type
+play4t/type
+play3(ask-al20)/type
+play3/type
+play3(ask-al00x)/type
+play3(ask-tl00x)/type
+play3e(ksa-al10)/type
+play3e/type
+play(cor-al00)/type
+play/type
+x10(tel-an00a)/type
+x10(tel-an10)/type
+x10(tel-tn00)/type
+x10(tel-an00)/type
+v10(bkl-al20)/type
+v10/type
+v10(bkl-al10)/type
+v10(bkl-al00)/type
+note10(rvl-al09)/type
+note10/type
+note8(edi-al10)/type
+note8/type
+10高配版(col-al10)/type
+10高配版/type
+10青春版(hry-al10)/type
+10青春版/type
+10青春版(hry-tl00)/type
+10青春版(hry-al00i)/type
+10青春版(hry-al00a)/type
+10青春版(hry-al00)/type
+9s海外版(dua-lx9)/type
+9s海外版/type
+9x pro(hlk-al10)/type
+9x pro/type
+9x/type
+9x(hlk-tl00)/type
+9x(hlk-al00)/type
+9i(lld-al30)/type
+9i/type
+9i(lld-al20)/type
+9(stf-tl10)/type
+9/type
+9(stf-al10)/type
+9(stf-al00)/type
+9青春版(lld-tl00)/type
+9青春版/type
+9青春版(lld-tl10)/type
+9青春版(lld-al10)/type
+9青春版(lld-al00)/type
+8x(jsn-tl00)/type
+8x/type
+8x(jsn-al10)/type
+8x(jsn-al00)/type
+7(plk-ul00)/type
+7/type
+7(plk-tl01h)/type
+7(plk-tl00)/type
+7(plk-cl00)/type
+7(plk-al10)/type
+6 plus(pe-ul00)/type
+6 plus/type
+6/type
+6 plus(pe-tl20)/type
+6 plus(pe-tl10)/type
+6 plus(pe-tl00)/type
+6 plus(pe-cl00)/type
+6(h60-l04)/type
+6(h60-l01)/type
+畅玩30 plus(cma-an00)/type
+畅玩30 plus/type
+畅玩30/type
+畅玩20 pro(hjc-lx9)/type
+畅玩20 pro/type
+畅玩20/type
+畅玩9a(moa-al20)/type
+畅玩9a/type
+畅玩8a(jat-al00)/type
+畅玩8a/type
+畅玩8(ksa-al00)/type
+畅玩8/type
+畅玩7x(bnd-al10)/type
+畅玩7x/type
+畅玩7x(bnd-tl10)/type
+畅玩6(mya-al10)/type
+畅玩6/type
+畅玩5(cun-tl00)/type
+畅玩5/type
+畅玩5(cun-al00)/type
+reno5 pro/type
+reno5/type
+f9/type
+reno4 se/type
+reno4/type
+k9 pro/type
+k9/type
+realme gt neo2t/type
+realme/type
+a95/type
+realme v15/type
+k7x/type
+realme v11/type
+a93s/type
+realme q3i/type
+k9x/type
+reno7se/type
+a92s/type
+a56/type
+reno6/type
+realme x7 pro/type
+realme q3 pro/type
+realme q2/type
+realme gt neo s/type
+a94/type
+a55/type
+realme gt neo/type
+a53(全网通/5g)/type
+a53/type
+a9x/type
+a12(海外版)/type
+a12/type
+a35/type
+realme x7/type
+a54/type
+a72/type
+a15(海外版)/type
+a15/type
+realme 7/type
+a91/type
+reno2z/type
+renoz/type
+reno3/type
+f5/type
+a9/type
+r15(非梦境版)/type
+r15/type
+a7x(pbbm00)/type
+a7x/type
+r11s plus/type
+r11s/type
+r11s plust/type
+r11st/type
+r11 plust/type
+r11/type
+r11 pluskt/type
+r11 plusk/type
+r11 plus/type
+r11t/type
+r9s plus/type
+r9s/type
+r9s plust/type
+r9st/type
+r9sk/type
+r9 plus/type
+r9/type
+r9 plus a/type
+r9 plusm a/type
+r9 plustm a/type
+r9tm/type
+r9m/type
+r9km/type
+r7s plus/type
+r7s/type
+r7s(移动版)/type
+r7sm/type
+r7 plusm/type
+r7/type
+r7 plus(移动版)/type
+r7 plus/type
+r7 plus(全网通)/type
+r7c/type
+r7t/type
+a3/type
+a1/type
+a83/type
+a79/type
+a77/type
+a73/type
+a59m/type
+a59st/type
+a59s/type
+a57/type
+a57t/type
+a53(移动4g)/type
+a53m/type
+a51/type
+a37m/type
+a33/type
+a33m/type
+a31/type
+a31u/type
+a31m/type
+a31t/type
+a30/type
+r2017/type
+r8207/type
+r8007/type
+r819/type
+r3/type
+n5207/type
+n3/type
+x9007/type
+1105/type
+通用/type
+y52海外版/type
+y76s/type
+x23(幻彩a版本2)/type
+x23/type
+y31s/type
+y55s/type
+x70/type
+s12/type
+s10pro/type
+s10/type
+s9e/type
+y53s(t2)/type
+y53s/type
+y71t/type
+t1x/type
+s10e/type
+y30/type
+s9/type
+y73s/type
+x3sw/type
+y622/type
+z5(v1921a)/type
+z5/type
+s5(v1932a)/type
+s5/type
+iqoo neo(v1914a)/type
+iqoo neo/type
+iqoo/type
+y93(v1818t)/type
+y93/type
+nex双屏幕(v1821a)/type
+nex双屏幕/type
+y3s/type
+y95定制版(v1818ca)/type
+y95定制版/type
+y91/type
+x23(标准版)/type
+y89/type
+y3标准版/type
+y71s/type
+y73/type
+x21s/type
+x27 pro(pd1836)/type
+x27 pro/type
+x27/type
+x23(幻彩a版)/type
+x23(幻彩e版)/type
+x21i/type
+x21ud/type
+x21ia/type
+x21/type
+x20plusud/type
+x20plus/type
+x20a/type
+y97(v1813a)/type
+y97/type
+y93s/type
+y93(mtk版本)/type
+z5x(pd1911)/type
+z5x/type
+z3x(pd1730ga)/type
+z3x/type
+z3i/type
+z1i(pd1730c)/type
+z1i/type
+z1青春版(pd1730ea)/type
+z1青春版/type
+z1(pd1730c)/type
+z1/type
+nex a(pd1806)/type
+nex a/type
+nex/type
+u1/type
+s1(v1831a)/type
+s1/type
+y3/type
+x9s plus/type
+x9s/type
+x9 plus/type
+x9/type
+x9l/type
+x9i/type
+x7 plus/type
+x7/type
+x6s plus/type
+x6s/type
+x6d/type
+x6 plus d/type
+x6/type
+x6 plusa/type
+x6a/type
+x5prod/type
+x5prov/type
+x5maxf/type
+x5maxl/type
+x5maxv/type
+x5v/type
+x5f/type
+x5m/type
+x3l/type
+y85a/type
+y85/type
+y83a/type
+y83/type
+y81s/type
+y81/type
+y79/type
+y75s/type
+y75a/type
+y75/type
+y71/type
+y69a/type
+y69/type
+y67/type
+y66/type
+y66i/type
+y66l/type
+y55/type
+y55a/type
+y55l/type
+y53/type
+y51/type
+y51a/type
+y37/type
+y35a/type
+y35/type
+y31/type
+y31a/type
+y31l/type
+y29l/type
+y28l/type
+y27/type
+y23l/type
+y22l/type
+y18l/type
+y13l/type
+y937/type
+y928/type
+y927/type
+y923/type
+y913/type
+y627/type
+y613f/type
+y623/type
+xplay6/type
+xplay5s/type
+xplay5/type
+xplay3s(x520f)/type
+xplay3s/type
+xplay3s(x520l)/type
+xplay(x510w)/type
+xplay/type
+xshot(x710f)/type
+xshot/type
+xshot(x710l)/type
+v3m a/type
+v3m/type
+v3max/type
+v3max a/type
+v3l/type
+v3/type
+e3/type
+1601/type
+红米 k40(游戏版)/type
+红米 k40/type
+红米/type
+红米 note 11pro+/type
+红米 note 11pro/type
+红米 10x pro/type
+红米 10x 5g/type
+红米 note 10pro/type
+红米 note 10/type
+红米 10x(4g)/type
+红米 10x/type
+红米 k30(至尊纪念版)/type
+红米 k30/type
+红米 9a/type
+红米 9/type
+红米 6/type
+8青春版/type
+6x/type
+5s plus/type
+5s/type
+5x/type
+5/type
+4c/type
+4s/type
+4i/type
+4/type
+4(全网通4g)/type
+4(电信4g)/type
+3(移动版)/type
+3/type
+3(联通版)/type
+3(电信版)/type
+2a/type
+2s/type
+2/type
+1s/type
+1/type
+max3/type
+max2/type
+max(高配3g/4g ram)/type
+max/type
+max(高配3g/4g/type
+max(2g/3g ram)/type
+max(2g/3g/type
+mix/type
+note3/type
+note2/type
+note(顶配)/type
+note/type
+红米 pro/type
+红米 s2/type
+红米 note7/type
+红米 note5a(高配版)/type
+红米 note5a/type
+红米 note5a(标准版)/type
+红米 note5/type
+红米 note4x/type
+红米 note4/type
+红米 note3(4g 双卡版)/type
+红米 note3/type
+红米 note3(全网通)/type
+红米 note(联通版)/type
+红米 note/type
+红米 note(移动版)/type
+红米 note(电信4g双卡版)/type
+红米 4x/type
+红米 3x/type
+红米 5 plus/type
+红米 5a/type
+红米 5/type
+红米 4a/type
+红米 4(标准版)/type
+红米 4/type
+红米 4(高配版)/type
+红米 3s/type
+红米 3/type
+红米 2a(高配版)/type
+红米 2a/type
+红米 2(电信增强版)/type
+红米 2/type
+红米 2(联通增强版)/type
+红米 2(移动增强版)/type
+红米 2(电信版)/type
+红米 2(联通版)/type
+红米 2(移动版)/type
+红米 1s(电信版)/type
+红米 1s/type
+红米 1s(联通版)/type
+红米 1s(移动4g版)/type
+红米 1s(移动3g版)/type
+sm-n9500(galaxy note 8)/type
+sm-n9500/type
+sm-n9500(galaxy/type
+sm-g9550(galaxy s8+)/type
+sm-g9550/type
+sm-g9550(galaxy/type
+sm-g9500(galaxy s8)/type
+sm-g9500/type
+sm-g9500(galaxy/type
+sm-g9350(galaxy s7 edge)/type
+sm-g9350/type
+sm-g9350(galaxy/type
+sm-g9308(galaxy s7)/type
+sm-g9308/type
+sm-g9308(galaxy/type
+sm-g9300(galaxy s7)/type
+sm-g9300/type
+sm-g9300(galaxy/type
+sm-g935fd(galaxy s7)/type
+sm-g935fd/type
+sm-g935fd(galaxy/type
+sm-g930fd(galaxy s7)/type
+sm-g930fd/type
+sm-g930fd(galaxy/type
+sm-g9287(galaxy s6 edge plus)/type
+sm-g9287/type
+sm-g9287(galaxy/type
+sm-g9280(galaxy s6 edge+)/type
+sm-g9280/type
+sm-g9280(galaxy/type
+sm-g9250(galaxy s6 edge)/type
+sm-g9250/type
+sm-g9250(galaxy/type
+sm-g9209(galaxy s6)/type
+sm-g9209/type
+sm-g9209(galaxy/type
+sm-g9208(galaxy s6)/type
+sm-g9208/type
+sm-g9208(galaxy/type
+sm-g9200(galaxy s6)/type
+sm-g9200/type
+sm-g9200(galaxy/type
+sm-g9009d(galaxy s5)/type
+sm-g9009d/type
+sm-g9009d(galaxy/type
+sm-g9008v(galaxy s5)/type
+sm-g9008v/type
+sm-g9008v(galaxy/type
+sm-g9006v(galaxy s5)/type
+sm-g9006v/type
+sm-g9006v(galaxy/type
+gt-i959(galaxy s4)/type
+gt-i959/type
+gt-i959(galaxy/type
+gt-i9508(galaxy s4)/type
+gt-i9508/type
+gt-i9508(galaxy/type
+gt-i9500(galaxy s4)/type
+gt-i9500/type
+gt-i9500(galaxy/type
+gt-i939(galaxy s3)/type
+gt-i939/type
+gt-i939(galaxy/type
+gt-i9308(galaxy s3)/type
+gt-i9308/type
+gt-i9308(galaxy/type
+gt-i9300(galaxy s3)/type
+gt-i9300/type
+gt-i9300(galaxy/type
+gt-i9300i(galaxy s3 neo+)/type
+gt-i9300i/type
+gt-i9300i(galaxy/type
+sm-w2017/type
+sm-w2016/type
+sm-n9208(galaxy note 5 duos)/type
+sm-n9208/type
+sm-n9208(galaxy/type
+sm-n9200(galaxy note 5)/type
+sm-n9200/type
+sm-n9200(galaxy/type
+sm-n9109w(galaxy note 4)/type
+sm-n9109w/type
+sm-n9109w(galaxy/type
+sm-n9009(galaxy note 3)/type
+sm-n9009/type
+sm-n9009(galaxy/type
+sm-n9008(galaxy note 3)/type
+sm-n9008/type
+sm-n9008(galaxy/type
+sm-n9006(galaxy note 3)/type
+sm-n9006/type
+sm-n9006(galaxy/type
+sm-n9002(galaxy note 3)/type
+sm-n9002/type
+sm-n9002(galaxy/type
+sm-n900(galaxy note 3)/type
+sm-n900/type
+sm-n900(galaxy/type
+sch-n719(galaxy note 2)/type
+sch-n719/type
+sch-n719(galaxy/type
+gt-n7108d(galaxy note 2)/type
+gt-n7108d/type
+gt-n7108d(galaxy/type
+gt-n7108(galaxy note 2)/type
+gt-n7108/type
+gt-n7108(galaxy/type
+gt-n7105(galaxy note 2)/type
+gt-n7105/type
+gt-n7105(galaxy/type
+gt-n7102(galaxy note 2)/type
+gt-n7102/type
+gt-n7102(galaxy/type
+gt-n7100(galaxy note 2)/type
+gt-n7100/type
+gt-n7100(galaxy/type
+gt-n7000(galaxy note)/type
+gt-n7000/type
+gt-n7000(galaxy/type
+sm-a8000(galaxy a8)/type
+sm-a8000/type
+sm-a8000(galaxy/type
+sm-a7108(galaxy a7)/type
+sm-a7108/type
+sm-a7108(galaxy/type
+sm-a7000(galaxy a7)/type
+sm-a7000/type
+sm-a7000(galaxy/type
+sm-a5108(galaxy a5)/type
+sm-a5108/type
+sm-a5108(galaxy/type
+sm-c7100(galaxy c8)/type
+sm-c7100/type
+sm-c7100(galaxy/type
+sm-c7010(galaxy c7 pro)/type
+sm-c7010/type
+sm-c7010(galaxy/type
+sm-c7000(galaxy c7)/type
+sm-c7000/type
+sm-c7000(galaxy/type
+sm-c5010(galaxy c5 pro)/type
+sm-c5010/type
+sm-c5010(galaxy/type
+sm-c5000(galaxy c5)/type
+sm-c5000/type
+sm-c5000(galaxy/type
+sm-g5700(galaxy on5)/type
+sm-g5700/type
+sm-g5700(galaxy/type
+sm-g5520(galaxy on5)/type
+sm-g5520/type
+sm-g5520(galaxy/type
+sm-j7109(galaxy j7)/type
+sm-j7109/type
+sm-j7109(galaxy/type
+sm-j3110(galaxy j3 pro)/type
+sm-j3110/type
+sm-j3110(galaxy/type
+gt-s7562(galaxy trend duos)/type
+gt-s7562/type
+gt-s7562(galaxy/type
+shw-m250s/type
+sch-i869(galaxy win)/type
+sch-i869/type
+sch-i869(galaxy/type
+gt-i9103/type
+gt-i9100/type
+gt-i8558/type
+gt-i8552/type
+gt-i8268/type
+sm-g900h/type
+sm-g6100(galaxy on7)/type
+sm-g6100/type
+sm-g6100(galaxy/type
+v8/type
+16xs(m1926)/type
+16xs/type
+16t(m1928)/type
+16t/type
+16s pro(m973q)/type
+16s pro/type
+16s/type
+16s(m971q)/type
+note9(m923q)/type
+note9/type
+note8(m1822)/type
+x8(m1852)/type
+x8/type
+pro 7 plus/type
+pro/type
+pro 7-h/type
+pro 7-s/type
+pro 6s/type
+pro 6/type
+魅蓝note6(m6 note)/type
+魅蓝note6/type
+魅蓝note6(m6/type
+魅蓝note5(移动版)/type
+魅蓝note5/type
+魅蓝note5(m5 note)/type
+魅蓝note5(m5/type
+魅蓝note3(m3 note)/type
+魅蓝note3/type
+魅蓝note3(m3/type
+魅蓝note2(m2 note 电信版)/type
+魅蓝note2/type
+魅蓝note2(m2/type
+魅蓝note2(m2 note 非电信版)/type
+魅蓝note(m1 note)/type
+魅蓝note/type
+魅蓝note(m1/type
+魅蓝x(m3x)/type
+魅蓝x/type
+魅蓝u20/type
+魅蓝u10(u680d)/type
+魅蓝u10/type
+魅蓝metal(m1 metal)/type
+魅蓝metal/type
+魅蓝metal(m1/type
+魅蓝max(m3 max)/type
+魅蓝max/type
+魅蓝max(m3/type
+魅蓝a5(m a5)/type
+魅蓝a5/type
+魅蓝a5(m/type
+魅蓝e3/type
+魅蓝e2(m2 e)/type
+魅蓝e2/type
+魅蓝e2(m2/type
+魅蓝e(m1 e)/type
+魅蓝e/type
+魅蓝e(m1/type
+魅蓝6t/type
+魅蓝6/type
+魅蓝5s(m612c)/type
+魅蓝5s/type
+魅蓝5(m5)/type
+魅蓝5/type
+魅蓝3s(m3s)/type
+魅蓝3s/type
+魅蓝3(m3)/type
+魅蓝3/type
+魅蓝2(m2)/type
+魅蓝2/type
+mx6/type
+mx5e/type
+mx5/type
+mx4/type
+s30 se(8030n)/type
+s30 se/type
+s30/type
+远航10(7530n)/type
+远航10/type
+a7s/type
+g720c/type
+g720t/type
+a2017/type
+a2 plus(高配版)/type
+a2 plus/type
+a2/type
+blade a4(a0722)/type
+blade a4/type
+blade/type
+blade a2s(v0721)/type
+blade a2s/type
+远航5(a0622)/type
+远航5/type
+红魔5s(nx659j)/type
+红魔5s/type
+play(nx651j)/type
+z20(nx627j)/type
+z20/type
+z18(nx606j)/type
+z18/type
+z18mini(nx611j)/type
+z18mini/type
+z17s(nx595j)/type
+z17s/type
+z17minis(nx589j)/type
+z17minis/type
+z17mini(nx569h)/type
+z17mini/type
+z17(nx563j)/type
+z17/type
+z11max(nx523j)/type
+z11max/type
+z11mini(nx529j)/type
+z11mini/type
+z11(nx531j)/type
+z11/type
+z9max(nx512j)/type
+z9max/type
+z9mini(nx511j)/type
+z9mini/type
+z9(nx508j)/type
+z9/type
+红魔 5g(nx659j)/type
+红魔 5g/type
+红魔/type
+红魔mars(nx619j)/type
+红魔mars/type
+红魔3s(nx629j)/type
+红魔3s/type
+红魔3(nx629j)/type
+红魔3/type
+红魔(nx609j)/type
+x(nx616j)/type
+x/type
+v18(nx612j)/type
+v18/type
+m2/type
+n3(nx608j)/type
+n2(nx575j)/type
+n2/type
+my prague(nx513j)/type
+my prague/type
+my/type
+乐2 pro(x625)/type
+乐2 pro/type
+乐2/type
+乐pro3 ai(lex651)/type
+乐pro3 ai/type
+乐pro3/type
+乐max2(x820)/type
+乐max2/type
+乐max(x908)/type
+乐max/type
+乐max(x906)/type
+乐max(x900+)/type
+乐max(x900全网通)/type
+乐max(x900 4g)/type
+乐max(x900/type
+乐2(x621)/type
+乐2(x620)/type
+乐1s(x502)/type
+乐1s/type
+乐1s(x501)/type
+乐1s(x500)/type
+乐1 pro(x800+)/type
+乐1 pro/type
+乐1/type
+乐1 pro(x800)/type
+乐1(x608)/type
+乐1(x600)/type
+a7-30tc/type
+a830/type
+zuk edge(z2151)/type
+zuk edge/type
+zuk/type
+zuk z2 pro(z2121)/type
+zuk z2 pro/type
+zuk z2/type
+zuk z1/type
+z6 pro/type
+z6/type
+z6青春版(l38111)/type
+z6青春版/type
+z5 pro(l78031)/type
+z5 pro/type
+z5s(l78071)/type
+z5s/type
+a5/type
+k5 note(l38012)/type
+k5 note/type
+k5/type
+k5(k350t)/type
+vibe x2/type
+vibe/type
+vibe p1/type
+乐檬k3/type
+k10e70/type
+s90-t/type
+s920/type
+s890/type
+s850/type
+a850/type
+a820t/type
+a805e/type
+a750/type
+a798t/type
+a708t/type
+a320t/type
+2(a2001)/type
+n7 pro(1809-a01)/type
+n7 pro/type
+n7/type
+n7 lite(1803-a01)/type
+n7 lite/type
+n7(1807-a01)/type
+n6 pro(1801-a01)/type
+n6 pro/type
+n6/type
+n6 lite(1713-a01)/type
+n6 lite/type
+n6(1707-a01)/type
+n5s(1607-a01)/type
+n5s/type
+n5(1605-a01)/type
+n5/type
+n4s(1505-a01)/type
+n4s/type
+n4a(1603-a03)/type
+n4a/type
+n4(1503-a01)/type
+n4/type
+f4s(1603-a02)/type
+f4s/type
+f4(1501-m02)/type
+f4/type
+vizza/type
+mbi r6/type
+mbi/type
+奇酷青春版(8681)/type
+奇酷青春版/type
+t9 melody(mp1710)/type
+t9 melody/type
+t9/type
+t8s/type
+t8/type
+m8s/type
+m8/type
+m6s/type
+m6/type
+m4s/type
+m4/type
+m1s/type
+m1/type
+v6/type
+v4s/type
+v4/type
+坚果pro 2s(oe106)/type
+坚果pro 2s/type
+坚果pro/type
+坚果pro2特别版(os103)/type
+坚果pro2特别版/type
+坚果pro2(os105)/type
+坚果pro2/type
+坚果pro(od105)/type
+坚果pro(od103)/type
+坚果3(oc105)/type
+坚果3/type
+坚果u1(yq607)/type
+坚果u1/type
+坚果u1(yq605)/type
+坚果u1(yq603)/type
+坚果u1(yq601)/type
+t2(sm801)/type
+t2/type
+t1(sm705)/type
+t1/type
+r1(de106)/type
+r1/type
+m1(sm901)/type
+m1l(sm919)/type
+m1l/type
+s10bl/type
+s8(gn9011)/type
+s8/type
+s7/type
+s6 pro(gn9012)/type
+s6 pro/type
+s6/type
+s6(gn9010)/type
+s5(gn3001)/type
+m2017/type
+m7/type
+m6s plus/type
+m6 plus(gn8002)/type
+m6 plus/type
+m6(gn8003)/type
+m5 plus(gn8001)/type
+m5 plus/type
+m5/type
+m3s/type
+f109l/type
+f106/type
+f103/type
+f103s/type
+w909/type
+w900/type
+gn5005/type
+金刚(gn5001s)/type
+金刚/type
+锋尚air指纹版(8298-m02)/type
+锋尚air指纹版/type
+酷玩8(1873-a0)/type
+酷玩8/type
+酷玩8 lite(1832-a0)/type
+酷玩8 lite/type
+酷玩7c/type
+酷玩7/type
+酷玩6c/type
+酷玩2(1871-a0 i)/type
+酷玩2/type
+酷玩2(1871-a0/type
+酷玩2(1871-a0 g)/type
+酷玩2(1871-a0 e)/type
+酷玩2(1871-a0 d)/type
+锋行a5(1811-a0)/type
+锋行a5/type
+1c(c107-9)/type
+1c/type
+1(c106-7)/type
+色界 g0245d/type
+色界/type
+二代 g0215d/type
+二代/type
+hlte501n/type
+a6(hlte700t)/type
+a6/type
+a2 pro/type
+m36/type
+m30t/type
+m30/type
+h18/type
+h11(hltem800)/type
+h11/type
+f30/type
+e81/type
+金刚4 pro(hlte311t)/type
+金刚4 pro/type
+金刚4/type
+m3/type
+eben m2/type
+eben/type
+de10(l9021mh)/type
+de10/type
+8x max(20190416q)/type
+8x max/type
+s35/type
+任性版(20160818q)/type
+任性版/type
+6(la-a31)/type
+红辣椒9a(20190718q)/type
+红辣椒9a/type
+红辣椒8a(20190618g)/type
+红辣椒8a/type
+红辣椒r15(20180322d)/type
+红辣椒r15/type
+红辣椒9x(20190718q)/type
+红辣椒9x/type
+红辣椒8x pro(20190325d)/type
+红辣椒8x pro/type
+红辣椒8x/type
+红辣椒8x(20190325d)/type
+红辣椒gm-q20/type
+红辣椒gm-q8/type
+红辣椒gm-q11(20170605q)/type
+红辣椒gm-q11/type
+红辣椒gm-q5+/type
+红辣椒7r(20181225)/type
+红辣椒7r/type
+红辣椒7x尊享版(20190416q)/type
+红辣椒7x尊享版/type
+红辣椒7x(oy01p_md)/type
+红辣椒7x/type
+红辣椒7x(oy01_e)/type
+红辣椒4a(20170520q)/type
+红辣椒4a/type
+红辣椒note5x(20180102q)/type
+红辣椒note5x/type
+红辣椒note5/type
+红辣椒note3/type
+红辣椒nx/type
+11(20200202d)/type
+11/type
+10(20181225)/type
+10/type
+p60(20190718q)/type
+p60/type
+v9(la-v9)/type
+v9/type
+s31/type
+s11(la-s11)/type
+s11/type
+s9(la-s9)/type
+s6(la-s6)/type
+v11(移动定制版)/type
+v11/type
+player/type
+6x(la-v9)/type
+6(la6-l)/type
+3(la3-w)/type
+任性版plus+(20170605q)/type
+任性版plus+/type
+s30 pro/type
+s20/type
+y15/type
+y12/type
+y11/type
+y9/type
+f11/type
+c11/type
+d1/type
+12 pro max/type
+12/type
+m30 pro/type
+find x/type
+find/type
+v33/type
+x11 pro/type
+x11/type
+6s/type
+a19/type
+a11/type
+a8/type
+l925/type
+l9 mini/type
+l9/type
+ck3-01/type
+ck2-01/type
+i3 play/type
+i3/type
+f1/type
+v1m/type
+freer x9/type
+freer/type
+f2 plus(x10)/type
+f2 plus/type
+f2/type
+k10/type
+m9 plus/type
+m9/type
+s309/type
+s200/type
+s109/type
+s106/type
+s103/type
+s100/type
+s3/type
+s2/type
+nexus 6/type
+nexus/type
+g5/type
+g4/type
+g3(d858)/type
+g3/type
+c71/type
+u9/type
+u7/type
+u7 mini/type
+k1/type
+锋芒note/type
+s32/type
+pouvoir 4 pro(lc8)/type
+pouvoir 4 pro/type
+pouvoir/type
+camon 11 pro/type
+camon/type
+camon 17 pro(cg8)/type
+camon 17 pro/type
+camon 15 premier/type
+camon 12 air(kc3)/type
+camon 12 air/type
+camon 16 premier(ce9)/type
+camon 16 premier/type
+spark 6(ke7)/type
+spark 6/type
+spark/type
+cc9/type
+phantom8 ax8/type
+phantom8/type
+camon cx/type
+note 8i(x683)/type
+note 8i/type
+smart3 plus(x627)/type
+smart3 plus/type
+smart3/type
+hot 8(x560b)/type
+hot 8/type
+hot/type
+s4(x626)/type
+s4/type
+hot 9(x655c)/type
+hot 9/type
+zero 8(x687)/type
+zero 8/type
+zero/type
+s5(x652a)/type
+hot 8 lite(x650)/type
+hot 8 lite/type
+smart 2 hd(x609)/type
+smart 2 hd/type
+smart/type
+smart 4(x653)/type
+smart 4/type
+hot 7(x624b)/type
+hot 7/type
+hot 7 pro(x625d)/type
+hot 7 pro/type
+s5 pro(x660)/type
+s5 pro/type
+note 5 stylus(x605)/type
+note 5 stylus/type
+note 5(x604b)/type
+note 5/type
+x610b(note 6)/type
+x610b/type
+x610b(note/type
+hot 4 pro/type
+f8926/type
+f8916/type
+t7a/type
+t6/type
+t5/type
+n3s/type
+c5/type
+nx/type
+a525)/type
+a3s(m653)/type
+a3s/type
+n3(m850)/type
+n2(m836)/type
+a1(m623c)/type
+t13/type
+t3/type
+ml-s/type
+游戏手机3pro(mbu-a0)/type
+游戏手机3pro/type
+游戏手机3(12g内存kle-a0)/type
+游戏手机3/type
+游戏手机3(8g内存kle-a0)/type
+游戏手机2pro/type
+游戏手机2/type
+p40 pro(m30)/type
+p40 pro/type
+p40/type
+p308/type
+g5i/type
+x-apple/type
+苹果/logo
+华为/logo
+荣耀/logo
+oppo/logo
+vivo/logo
+小米/logo
+三星/logo
+魅族/logo
+中兴/logo
+努比亚/logo
+乐视/logo
+联想/logo
+一加/logo
+360/logo
+美图/logo
+锤子/logo
+金立/logo
+酷派/logo
+格力/logo
+海信/logo
+8848/logo
+小辣椒/logo
+糖果/logo
+朵唯/logo
+ivvi/logo
+酷比/logo
+摩托罗拉/logo
+lg/logo
+国美/logo
+邦华/logo
+itel/logo
+tecno/logo
+传音/logo
+世纪天元/logo
+宇飞来/logo
+青橙/logo
+中国移动/logo
+乐丰/logo
+亿优/logo
+米莱/logo
+黑鲨/logo
+云创通/logo
+bbk/logo
+速洛/logo
+纽曼/logo
+其他/logo
+sumsung/logo
+huawei/logo
+meizu/logo
+honor/logo
+xiaomi/logo
+zte/logo
+lenovo/logo
