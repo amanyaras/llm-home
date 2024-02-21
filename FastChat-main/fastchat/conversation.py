@@ -1512,7 +1512,7 @@ if __name__ == "__main__":
     from fastchat.conversation import get_conv_template
 
     print("-- Vicuna template --")
-    conv = get_conv_template("vicuna_v1.1")
+    conv = get_conv_template("qwen-7b-chat")
     conv.append_message(conv.roles[0], "Hello!")
     conv.append_message(conv.roles[1], "Hi!")
     conv.append_message(conv.roles[0], "How are you?")
@@ -1520,32 +1520,32 @@ if __name__ == "__main__":
     print(conv.get_prompt())
 
     print("\n")
-
-    print("-- Llama-2 template --")
-    conv = get_conv_template("llama-2")
-    conv.set_system_message("You are a helpful, respectful and honest assistant.")
-    conv.append_message(conv.roles[0], "Hello!")
-    conv.append_message(conv.roles[1], "Hi!")
-    conv.append_message(conv.roles[0], "How are you?")
-    conv.append_message(conv.roles[1], None)
-    print(conv.get_prompt())
-
-    print("\n")
-
-    print("-- ChatGPT template --")
-    conv = get_conv_template("chatgpt")
-    conv.append_message(conv.roles[0], "Hello!")
-    conv.append_message(conv.roles[1], "Hi!")
-    conv.append_message(conv.roles[0], "How are you?")
-    conv.append_message(conv.roles[1], None)
-    print(conv.to_openai_api_messages())
-
-    print("\n")
-
-    print("-- Claude template --")
-    conv = get_conv_template("claude")
-    conv.append_message(conv.roles[0], "Hello!")
-    conv.append_message(conv.roles[1], "Hi!")
-    conv.append_message(conv.roles[0], "How are you?")
-    conv.append_message(conv.roles[1], None)
-    print(conv.get_prompt())
+    #
+    # print("-- Llama-2 template --")
+    # conv = get_conv_template("llama-2")
+    # conv.set_system_message("You are a helpful, respectful and honest assistant.")
+    # conv.append_message(conv.roles[0], "Hello!")
+    # conv.append_message(conv.roles[1], "Hi!")
+    # conv.append_message(conv.roles[0], "How are you?")
+    # conv.append_message(conv.roles[1], None)
+    # print(conv.get_prompt())
+    #
+    # print("\n")
+    #
+    # print("-- ChatGPT template --")
+    # conv = get_conv_template("chatgpt")
+    # conv.append_message(conv.roles[0], "Hello!")
+    # conv.append_message(conv.roles[1], "Hi!")
+    # conv.append_message(conv.roles[0], "How are you?")
+    # conv.append_message(conv.roles[1], None)
+    # print(conv.to_openai_api_messages())
+    #
+    # print("\n")
+    #
+    # print("-- Claude template --")
+    # conv = get_conv_template("claude")
+    # conv.append_message(conv.roles[0], "Hello!")
+    # conv.append_message(conv.roles[1], "Hi!")
+    # conv.append_message(conv.roles[0], "How are you?")
+    # conv.append_message(conv.roles[1], None)
+    # print(conv.get_prompt())

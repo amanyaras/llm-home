@@ -1254,3 +1254,531 @@
 2024-02-21 07:58:59 | ERROR | stderr | 683it [57:35,  5.55s/it]
 2024-02-21 07:59:03 | ERROR | stderr | 684it [57:39,  5.00s/it]
 2024-02-21 07:59:10 | ERROR | stderr | 685it [57:46,  5.62s/it]
+2024-02-21 07:59:18 | ERROR | stderr | 686it [57:53,  6.22s/it]
+2024-02-21 07:59:22 | ERROR | stderr | 687it [57:58,  5.64s/it]
+2024-02-21 07:59:28 | ERROR | stderr | 688it [58:04,  5.81s/it]
+2024-02-21 07:59:28 | ERROR | stderr | /root/miniconda3/envs/llm-home/lib/python3.10/site-packages/transformers/generation/utils.py:1141: UserWarning: Input length of input_ids is 564, but `max_length` is set to 20. This can lead to unexpected behavior. You should consider increasing `max_new_tokens`.
+2024-02-21 07:59:28 | ERROR | stderr |   warnings.warn(
+2024-02-21 07:59:37 | ERROR | stderr | 689it [58:13,  6.85s/it]
+2024-02-21 07:59:45 | ERROR | stderr | 690it [58:21,  7.15s/it]
+2024-02-21 07:59:48 | ERROR | stderr | 691it [58:24,  5.86s/it]
+2024-02-21 07:59:54 | ERROR | stderr | 692it [58:29,  5.78s/it]
+2024-02-21 07:59:57 | ERROR | stderr | 693it [58:33,  4.97s/it]
+2024-02-21 08:00:00 | ERROR | stderr | 694it [58:36,  4.43s/it]
+2024-02-21 08:00:00 | ERROR | stderr | /root/miniconda3/envs/llm-home/lib/python3.10/site-packages/transformers/generation/utils.py:1141: UserWarning: Input length of input_ids is 588, but `max_length` is set to 20. This can lead to unexpected behavior. You should consider increasing `max_new_tokens`.
+2024-02-21 08:00:00 | ERROR | stderr |   warnings.warn(
+2024-02-21 08:00:08 | ERROR | stderr | 695it [58:44,  5.60s/it]
+2024-02-21 08:00:16 | ERROR | stderr | 696it [58:52,  6.22s/it]
+2024-02-21 08:00:19 | ERROR | stderr | 697it [58:55,  5.36s/it]
+2024-02-21 08:00:22 | ERROR | stderr | 698it [58:58,  4.50s/it]
+2024-02-21 08:00:26 | ERROR | stderr | 699it [59:02,  4.53s/it]
+2024-02-21 08:00:31 | ERROR | stderr | 700it [59:07,  4.51s/it]
+2024-02-21 08:00:35 | ERROR | stderr | 701it [59:11,  4.50s/it]
+2024-02-21 08:00:43 | ERROR | stderr | 702it [59:19,  5.41s/it]
+2024-02-21 08:00:46 | ERROR | stderr | 703it [59:22,  4.81s/it]
+2024-02-21 08:00:53 | ERROR | stderr | 704it [59:29,  5.42s/it]
+2024-02-21 08:00:59 | ERROR | stderr | 705it [59:34,  5.46s/it]
+2024-02-21 08:01:02 | ERROR | stderr | 706it [59:38,  4.88s/it]
+2024-02-21 08:01:10 | ERROR | stderr | 707it [59:46,  5.76s/it]
+2024-02-21 08:01:10 | ERROR | stderr | /root/miniconda3/envs/llm-home/lib/python3.10/site-packages/transformers/generation/utils.py:1141: UserWarning: Input length of input_ids is 281, but `max_length` is set to 20. This can lead to unexpected behavior. You should consider increasing `max_new_tokens`.
+2024-02-21 08:01:10 | ERROR | stderr |   warnings.warn(
+2024-02-21 08:01:14 | ERROR | stderr | 708it [59:49,  5.11s/it]
+2024-02-21 08:01:17 | ERROR | stderr | 709it [59:53,  4.65s/it]
+2024-02-21 08:01:20 | ERROR | stderr | 710it [59:55,  3.98s/it]
+2024-02-21 08:01:20 | ERROR | stderr | /root/miniconda3/envs/llm-home/lib/python3.10/site-packages/transformers/generation/utils.py:1141: UserWarning: Input length of input_ids is 368, but `max_length` is set to 20. This can lead to unexpected behavior. You should consider increasing `max_new_tokens`.
+2024-02-21 08:01:20 | ERROR | stderr |   warnings.warn(
+2024-02-21 08:01:25 | ERROR | stderr | 711it [1:00:01,  4.43s/it]
+2024-02-21 08:01:29 | ERROR | stderr | 712it [1:00:05,  4.25s/it]
+2024-02-21 08:01:33 | ERROR | stderr | 713it [1:00:09,  4.22s/it]
+2024-02-21 08:01:40 | ERROR | stderr | 714it [1:00:16,  5.17s/it]
+2024-02-21 08:01:48 | ERROR | stderr | 715it [1:00:24,  5.98s/it]
+2024-02-21 08:01:54 | ERROR | stderr | 716it [1:00:30,  5.88s/it]
+2024-02-21 08:01:58 | ERROR | stderr | 717it [1:00:34,  5.30s/it]
+2024-02-21 08:02:02 | ERROR | stderr | 718it [1:00:37,  4.84s/it]
+2024-02-21 08:02:06 | ERROR | stderr | 719it [1:00:42,  4.66s/it]
+2024-02-21 08:02:09 | ERROR | stderr | 720it [1:00:45,  4.17s/it]
+2024-02-21 08:02:13 | ERROR | stderr | 721it [1:00:49,  4.17s/it]
+2024-02-21 08:02:17 | ERROR | stderr | 722it [1:00:53,  4.15s/it]
+2024-02-21 08:02:20 | ERROR | stderr | 723it [1:00:56,  3.86s/it]
+2024-02-21 08:02:20 | ERROR | stderr | /root/miniconda3/envs/llm-home/lib/python3.10/site-packages/transformers/generation/utils.py:1141: UserWarning: Input length of input_ids is 542, but `max_length` is set to 20. This can lead to unexpected behavior. You should consider increasing `max_new_tokens`.
+2024-02-21 08:02:20 | ERROR | stderr |   warnings.warn(
+2024-02-21 08:02:29 | ERROR | stderr | 724it [1:01:05,  5.28s/it]
+2024-02-21 08:02:36 | ERROR | stderr | 725it [1:01:12,  5.75s/it]
+2024-02-21 08:02:42 | ERROR | stderr | 726it [1:01:18,  5.99s/it]
+2024-02-21 08:02:48 | ERROR | stderr | 727it [1:01:24,  5.97s/it]
+2024-02-21 08:02:54 | ERROR | stderr | 728it [1:01:30,  6.01s/it]
+2024-02-21 08:03:00 | ERROR | stderr | 729it [1:01:36,  6.02s/it]
+2024-02-21 08:03:04 | ERROR | stderr | 730it [1:01:40,  5.25s/it]
+2024-02-21 08:03:07 | ERROR | stderr | 731it [1:01:43,  4.58s/it]
+2024-02-21 08:03:12 | ERROR | stderr | 732it [1:01:48,  4.84s/it]
+2024-02-21 08:03:17 | ERROR | stderr | 733it [1:01:53,  4.71s/it]
+2024-02-21 08:03:21 | ERROR | stderr | 734it [1:01:57,  4.70s/it]
+2024-02-21 08:03:25 | ERROR | stderr | 735it [1:02:00,  4.26s/it]
+2024-02-21 08:03:31 | ERROR | stderr | 736it [1:02:07,  4.96s/it]
+2024-02-21 08:03:38 | ERROR | stderr | 737it [1:02:13,  5.36s/it]
+2024-02-21 08:03:41 | ERROR | stderr | 738it [1:02:17,  4.71s/it]
+2024-02-21 08:03:48 | ERROR | stderr | 739it [1:02:24,  5.40s/it]
+2024-02-21 08:03:51 | ERROR | stderr | 740it [1:02:27,  4.79s/it]
+2024-02-21 08:03:51 | ERROR | stderr | /root/miniconda3/envs/llm-home/lib/python3.10/site-packages/transformers/generation/utils.py:1141: UserWarning: Input length of input_ids is 492, but `max_length` is set to 20. This can lead to unexpected behavior. You should consider increasing `max_new_tokens`.
+2024-02-21 08:03:51 | ERROR | stderr |   warnings.warn(
+2024-02-21 08:03:58 | ERROR | stderr | 741it [1:02:34,  5.48s/it]
+2024-02-21 08:04:06 | ERROR | stderr | 742it [1:02:42,  6.25s/it]
+2024-02-21 08:04:09 | ERROR | stderr | 743it [1:02:45,  5.25s/it]
+2024-02-21 08:04:16 | ERROR | stderr | 744it [1:02:52,  5.74s/it]
+2024-02-21 08:04:23 | ERROR | stderr | 745it [1:02:59,  6.05s/it]
+2024-02-21 08:04:23 | ERROR | stderr | /root/miniconda3/envs/llm-home/lib/python3.10/site-packages/transformers/generation/utils.py:1141: UserWarning: Input length of input_ids is 716, but `max_length` is set to 20. This can lead to unexpected behavior. You should consider increasing `max_new_tokens`.
+2024-02-21 08:04:23 | ERROR | stderr |   warnings.warn(
+2024-02-21 08:04:31 | ERROR | stderr | 746it [1:03:07,  6.63s/it]
+2024-02-21 08:04:38 | ERROR | stderr | 747it [1:03:14,  6.90s/it]
+2024-02-21 08:04:43 | ERROR | stderr | 748it [1:03:19,  6.38s/it]
+2024-02-21 08:04:50 | ERROR | stderr | 749it [1:03:26,  6.49s/it]
+2024-02-21 08:04:56 | ERROR | stderr | 750it [1:03:32,  6.41s/it]
+2024-02-21 08:05:01 | ERROR | stderr | 751it [1:03:37,  5.83s/it]
+2024-02-21 08:05:06 | ERROR | stderr | 752it [1:03:42,  5.56s/it]
+2024-02-21 08:05:10 | ERROR | stderr | 753it [1:03:46,  5.25s/it]
+2024-02-21 08:05:15 | ERROR | stderr | 754it [1:03:51,  5.18s/it]
+2024-02-21 08:05:20 | ERROR | stderr | 755it [1:03:56,  5.05s/it]
+2024-02-21 08:05:20 | ERROR | stderr | /root/miniconda3/envs/llm-home/lib/python3.10/site-packages/transformers/generation/utils.py:1141: UserWarning: Input length of input_ids is 223, but `max_length` is set to 20. This can lead to unexpected behavior. You should consider increasing `max_new_tokens`.
+2024-02-21 08:05:20 | ERROR | stderr |   warnings.warn(
+2024-02-21 08:05:22 | ERROR | stderr | 756it [1:03:58,  4.07s/it]
+2024-02-21 08:05:24 | ERROR | stderr | 757it [1:04:00,  3.60s/it]
+2024-02-21 08:05:28 | ERROR | stderr | 758it [1:04:03,  3.47s/it]
+2024-02-21 08:05:32 | ERROR | stderr | 759it [1:04:08,  3.74s/it]
+2024-02-21 08:05:35 | ERROR | stderr | 760it [1:04:10,  3.40s/it]
+2024-02-21 08:05:41 | ERROR | stderr | 761it [1:04:17,  4.30s/it]
+2024-02-21 08:05:48 | ERROR | stderr | 762it [1:04:24,  5.17s/it]
+2024-02-21 08:05:51 | ERROR | stderr | 763it [1:04:27,  4.54s/it]
+2024-02-21 08:05:58 | ERROR | stderr | 764it [1:04:34,  5.25s/it]
+2024-02-21 08:06:02 | ERROR | stderr | 765it [1:04:38,  4.95s/it]
+2024-02-21 08:06:06 | ERROR | stderr | 766it [1:04:42,  4.50s/it]
+2024-02-21 08:06:10 | ERROR | stderr | 767it [1:04:46,  4.51s/it]
+2024-02-21 08:06:13 | ERROR | stderr | 768it [1:04:49,  3.99s/it]
+2024-02-21 08:06:16 | ERROR | stderr | 769it [1:04:52,  3.77s/it]
+2024-02-21 08:06:16 | ERROR | stderr | /root/miniconda3/envs/llm-home/lib/python3.10/site-packages/transformers/generation/utils.py:1141: UserWarning: Input length of input_ids is 521, but `max_length` is set to 20. This can lead to unexpected behavior. You should consider increasing `max_new_tokens`.
+2024-02-21 08:06:16 | ERROR | stderr |   warnings.warn(
+2024-02-21 08:06:24 | ERROR | stderr | 770it [1:05:00,  4.85s/it]
+2024-02-21 08:06:30 | ERROR | stderr | 771it [1:05:06,  5.32s/it]
+2024-02-21 08:06:36 | ERROR | stderr | 772it [1:05:12,  5.53s/it]
+2024-02-21 08:06:41 | ERROR | stderr | 773it [1:05:17,  5.20s/it]
+2024-02-21 08:06:47 | ERROR | stderr | 774it [1:05:23,  5.53s/it]
+2024-02-21 08:06:47 | ERROR | stderr | /root/miniconda3/envs/llm-home/lib/python3.10/site-packages/transformers/generation/utils.py:1141: UserWarning: Input length of input_ids is 407, but `max_length` is set to 20. This can lead to unexpected behavior. You should consider increasing `max_new_tokens`.
+2024-02-21 08:06:47 | ERROR | stderr |   warnings.warn(
+2024-02-21 08:06:53 | ERROR | stderr | 775it [1:05:29,  5.72s/it]
+2024-02-21 08:06:56 | ERROR | stderr | 776it [1:05:32,  4.84s/it]
+2024-02-21 08:06:59 | ERROR | stderr | 777it [1:05:35,  4.39s/it]
+2024-02-21 08:07:04 | ERROR | stderr | 778it [1:05:39,  4.38s/it]
+2024-02-21 08:07:10 | ERROR | stderr | 779it [1:05:46,  4.93s/it]
+2024-02-21 08:07:17 | ERROR | stderr | 780it [1:05:53,  5.62s/it]
+2024-02-21 08:07:22 | ERROR | stderr | 781it [1:05:58,  5.34s/it]
+2024-02-21 08:07:27 | ERROR | stderr | 782it [1:06:03,  5.28s/it]
+2024-02-21 08:07:33 | ERROR | stderr | 783it [1:06:09,  5.64s/it]
+2024-02-21 08:07:38 | ERROR | stderr | 784it [1:06:14,  5.30s/it]
+2024-02-21 08:07:42 | ERROR | stderr | 785it [1:06:18,  5.04s/it]
+2024-02-21 08:07:47 | ERROR | stderr | 786it [1:06:23,  4.96s/it]
+2024-02-21 08:07:47 | ERROR | stderr | /root/miniconda3/envs/llm-home/lib/python3.10/site-packages/transformers/generation/utils.py:1141: UserWarning: Input length of input_ids is 482, but `max_length` is set to 20. This can lead to unexpected behavior. You should consider increasing `max_new_tokens`.
+2024-02-21 08:07:47 | ERROR | stderr |   warnings.warn(
+2024-02-21 08:07:54 | ERROR | stderr | 787it [1:06:30,  5.61s/it]
+2024-02-21 08:07:58 | ERROR | stderr | 788it [1:06:34,  5.21s/it]
+2024-02-21 08:08:01 | ERROR | stderr | 789it [1:06:37,  4.49s/it]
+2024-02-21 08:08:04 | ERROR | stderr | 790it [1:06:40,  4.06s/it]
+2024-02-21 08:08:11 | ERROR | stderr | 791it [1:06:46,  4.74s/it]
+2024-02-21 08:08:15 | ERROR | stderr | 792it [1:06:51,  4.76s/it]
+2024-02-21 08:08:19 | ERROR | stderr | 793it [1:06:54,  4.25s/it]
+2024-02-21 08:08:19 | ERROR | stderr | /root/miniconda3/envs/llm-home/lib/python3.10/site-packages/transformers/generation/utils.py:1141: UserWarning: Input length of input_ids is 244, but `max_length` is set to 20. This can lead to unexpected behavior. You should consider increasing `max_new_tokens`.
+2024-02-21 08:08:19 | ERROR | stderr |   warnings.warn(
+2024-02-21 08:08:21 | ERROR | stderr | 794it [1:06:57,  3.72s/it]
+2024-02-21 08:08:24 | ERROR | stderr | 795it [1:07:00,  3.59s/it]
+2024-02-21 08:08:29 | ERROR | stderr | 796it [1:07:05,  3.89s/it]
+2024-02-21 08:08:29 | ERROR | stderr | /root/miniconda3/envs/llm-home/lib/python3.10/site-packages/transformers/generation/utils.py:1141: UserWarning: Input length of input_ids is 227, but `max_length` is set to 20. This can lead to unexpected behavior. You should consider increasing `max_new_tokens`.
+2024-02-21 08:08:29 | ERROR | stderr |   warnings.warn(
+2024-02-21 08:08:31 | ERROR | stderr | 797it [1:07:06,  3.21s/it]
+2024-02-21 08:08:33 | ERROR | stderr | 798it [1:07:09,  3.01s/it]
+2024-02-21 08:08:39 | ERROR | stderr | 799it [1:07:15,  4.04s/it]
+2024-02-21 08:08:44 | ERROR | stderr | 800it [1:07:20,  4.29s/it]
+2024-02-21 08:08:47 | ERROR | stderr | 801it [1:07:23,  3.94s/it]
+2024-02-21 08:08:51 | ERROR | stderr | 802it [1:07:27,  3.78s/it]
+2024-02-21 08:08:51 | ERROR | stderr | /root/miniconda3/envs/llm-home/lib/python3.10/site-packages/transformers/generation/utils.py:1141: UserWarning: Input length of input_ids is 391, but `max_length` is set to 20. This can lead to unexpected behavior. You should consider increasing `max_new_tokens`.
+2024-02-21 08:08:51 | ERROR | stderr |   warnings.warn(
+2024-02-21 08:08:56 | ERROR | stderr | 803it [1:07:32,  4.18s/it]
+2024-02-21 08:08:59 | ERROR | stderr | 804it [1:07:35,  3.85s/it]
+2024-02-21 08:09:02 | ERROR | stderr | 805it [1:07:38,  3.61s/it]
+2024-02-21 08:09:09 | ERROR | stderr | 806it [1:07:45,  4.63s/it]
+2024-02-21 08:09:14 | ERROR | stderr | 807it [1:07:49,  4.55s/it]
+2024-02-21 08:09:18 | ERROR | stderr | 808it [1:07:54,  4.52s/it]
+2024-02-21 08:09:21 | ERROR | stderr | 809it [1:07:57,  4.17s/it]
+2024-02-21 08:09:24 | ERROR | stderr | 810it [1:08:00,  3.81s/it]
+2024-02-21 08:09:28 | ERROR | stderr | 811it [1:08:03,  3.64s/it]
+2024-02-21 08:09:31 | ERROR | stderr | 812it [1:08:07,  3.64s/it]
+2024-02-21 08:09:37 | ERROR | stderr | 813it [1:08:13,  4.41s/it]
+2024-02-21 08:09:43 | ERROR | stderr | 814it [1:08:19,  4.84s/it]
+2024-02-21 08:09:48 | ERROR | stderr | 815it [1:08:23,  4.67s/it]
+2024-02-21 08:09:48 | ERROR | stderr | /root/miniconda3/envs/llm-home/lib/python3.10/site-packages/transformers/generation/utils.py:1141: UserWarning: Input length of input_ids is 515, but `max_length` is set to 20. This can lead to unexpected behavior. You should consider increasing `max_new_tokens`.
+2024-02-21 08:09:48 | ERROR | stderr |   warnings.warn(
+2024-02-21 08:09:55 | ERROR | stderr | 816it [1:08:31,  5.46s/it]
+2024-02-21 08:10:01 | ERROR | stderr | 817it [1:08:37,  5.68s/it]
+2024-02-21 08:10:01 | ERROR | stderr | /root/miniconda3/envs/llm-home/lib/python3.10/site-packages/transformers/generation/utils.py:1141: UserWarning: Input length of input_ids is 229, but `max_length` is set to 20. This can lead to unexpected behavior. You should consider increasing `max_new_tokens`.
+2024-02-21 08:10:01 | ERROR | stderr |   warnings.warn(
+2024-02-21 08:10:03 | ERROR | stderr | 818it [1:08:39,  4.66s/it]
+2024-02-21 08:10:07 | ERROR | stderr | 819it [1:08:42,  4.27s/it]
+2024-02-21 08:10:07 | ERROR | stderr | /root/miniconda3/envs/llm-home/lib/python3.10/site-packages/transformers/generation/utils.py:1141: UserWarning: Input length of input_ids is 591, but `max_length` is set to 20. This can lead to unexpected behavior. You should consider increasing `max_new_tokens`.
+2024-02-21 08:10:07 | ERROR | stderr |   warnings.warn(
+2024-02-21 08:10:15 | ERROR | stderr | 820it [1:08:51,  5.50s/it]
+2024-02-21 08:10:18 | ERROR | stderr | 821it [1:08:53,  4.65s/it]
+2024-02-21 08:10:24 | ERROR | stderr | 822it [1:09:00,  5.10s/it]
+2024-02-21 08:10:28 | ERROR | stderr | 823it [1:09:04,  4.94s/it]
+2024-02-21 08:10:34 | ERROR | stderr | 824it [1:09:10,  5.24s/it]
+2024-02-21 08:10:41 | ERROR | stderr | 825it [1:09:17,  5.81s/it]
+2024-02-21 08:10:45 | ERROR | stderr | 826it [1:09:20,  4.98s/it]
+2024-02-21 08:10:48 | ERROR | stderr | 827it [1:09:23,  4.43s/it]
+2024-02-21 08:10:51 | ERROR | stderr | 828it [1:09:27,  4.11s/it]
+2024-02-21 08:10:54 | ERROR | stderr | 829it [1:09:30,  3.82s/it]
+2024-02-21 08:11:01 | ERROR | stderr | 830it [1:09:36,  4.58s/it]
+2024-02-21 08:11:04 | ERROR | stderr | 831it [1:09:40,  4.18s/it]
+2024-02-21 08:11:08 | ERROR | stderr | 832it [1:09:44,  4.25s/it]
+2024-02-21 08:11:12 | ERROR | stderr | 833it [1:09:48,  4.25s/it]
+2024-02-21 08:11:16 | ERROR | stderr | 834it [1:09:51,  3.93s/it]
+2024-02-21 08:11:20 | ERROR | stderr | 835it [1:09:56,  4.03s/it]
+2024-02-21 08:11:26 | ERROR | stderr | 836it [1:10:02,  4.81s/it]
+2024-02-21 08:11:31 | ERROR | stderr | 837it [1:10:07,  4.73s/it]
+2024-02-21 08:11:35 | ERROR | stderr | 838it [1:10:11,  4.56s/it]
+2024-02-21 08:11:42 | ERROR | stderr | 839it [1:10:18,  5.19s/it]
+2024-02-21 08:11:46 | ERROR | stderr | 840it [1:10:22,  4.87s/it]
+2024-02-21 08:11:50 | ERROR | stderr | 841it [1:10:25,  4.47s/it]
+2024-02-21 08:11:55 | ERROR | stderr | 842it [1:10:31,  4.83s/it]
+2024-02-21 08:12:04 | ERROR | stderr | 843it [1:10:40,  5.97s/it]
+2024-02-21 08:12:08 | ERROR | stderr | 844it [1:10:44,  5.40s/it]
+2024-02-21 08:12:14 | ERROR | stderr | 845it [1:10:49,  5.47s/it]
+2024-02-21 08:12:19 | ERROR | stderr | 846it [1:10:55,  5.54s/it]
+2024-02-21 08:12:27 | ERROR | stderr | 847it [1:11:02,  6.06s/it]
+2024-02-21 08:12:34 | ERROR | stderr | 848it [1:11:10,  6.51s/it]
+2024-02-21 08:12:41 | ERROR | stderr | 849it [1:11:17,  6.59s/it]
+2024-02-21 08:12:48 | ERROR | stderr | 850it [1:11:24,  6.82s/it]
+2024-02-21 08:12:56 | ERROR | stderr | 851it [1:11:32,  7.04s/it]
+2024-02-21 08:13:04 | ERROR | stderr | 852it [1:11:40,  7.48s/it]
+2024-02-21 08:13:04 | ERROR | stderr | /root/miniconda3/envs/llm-home/lib/python3.10/site-packages/transformers/generation/utils.py:1141: UserWarning: Input length of input_ids is 618, but `max_length` is set to 20. This can lead to unexpected behavior. You should consider increasing `max_new_tokens`.
+2024-02-21 08:13:04 | ERROR | stderr |   warnings.warn(
+2024-02-21 08:13:14 | ERROR | stderr | 853it [1:11:50,  8.27s/it]
+2024-02-21 08:13:14 | ERROR | stderr | /root/miniconda3/envs/llm-home/lib/python3.10/site-packages/transformers/generation/utils.py:1141: UserWarning: Input length of input_ids is 605, but `max_length` is set to 20. This can lead to unexpected behavior. You should consider increasing `max_new_tokens`.
+2024-02-21 08:13:14 | ERROR | stderr |   warnings.warn(
+2024-02-21 08:13:24 | ERROR | stderr | 854it [1:12:00,  8.70s/it]
+2024-02-21 08:13:24 | ERROR | stderr | /root/miniconda3/envs/llm-home/lib/python3.10/site-packages/transformers/generation/utils.py:1141: UserWarning: Input length of input_ids is 226, but `max_length` is set to 20. This can lead to unexpected behavior. You should consider increasing `max_new_tokens`.
+2024-02-21 08:13:24 | ERROR | stderr |   warnings.warn(
+2024-02-21 08:13:26 | ERROR | stderr | 855it [1:12:02,  6.75s/it]
+2024-02-21 08:13:34 | ERROR | stderr | 856it [1:12:09,  6.91s/it]
+2024-02-21 08:13:40 | ERROR | stderr | 857it [1:12:16,  6.91s/it]
+2024-02-21 08:13:47 | ERROR | stderr | 858it [1:12:23,  6.76s/it]
+2024-02-21 08:13:52 | ERROR | stderr | 859it [1:12:28,  6.40s/it]
+2024-02-21 08:13:59 | ERROR | stderr | 860it [1:12:34,  6.31s/it]
+2024-02-21 08:14:01 | ERROR | stderr | 861it [1:12:37,  5.26s/it]
+2024-02-21 08:14:06 | ERROR | stderr | 862it [1:12:42,  5.03s/it]
+2024-02-21 08:14:12 | ERROR | stderr | 863it [1:12:48,  5.29s/it]
+2024-02-21 08:14:18 | ERROR | stderr | 864it [1:12:54,  5.64s/it]
+2024-02-21 08:14:24 | ERROR | stderr | 865it [1:13:00,  5.80s/it]
+2024-02-21 08:14:28 | ERROR | stderr | 866it [1:13:03,  5.01s/it]
+2024-02-21 08:14:30 | ERROR | stderr | 867it [1:13:06,  4.37s/it]
+2024-02-21 08:14:34 | ERROR | stderr | 868it [1:13:10,  4.08s/it]
+2024-02-21 08:14:37 | ERROR | stderr | 869it [1:13:13,  3.91s/it]
+2024-02-21 08:14:42 | ERROR | stderr | 870it [1:13:18,  4.07s/it]
+2024-02-21 08:14:42 | ERROR | stderr | /root/miniconda3/envs/llm-home/lib/python3.10/site-packages/transformers/generation/utils.py:1141: UserWarning: Input length of input_ids is 519, but `max_length` is set to 20. This can lead to unexpected behavior. You should consider increasing `max_new_tokens`.
+2024-02-21 08:14:42 | ERROR | stderr |   warnings.warn(
+2024-02-21 08:14:49 | ERROR | stderr | 871it [1:13:25,  5.06s/it]
+2024-02-21 08:14:56 | ERROR | stderr | 872it [1:13:32,  5.52s/it]
+2024-02-21 08:15:03 | ERROR | stderr | 873it [1:13:38,  5.94s/it]
+2024-02-21 08:15:09 | ERROR | stderr | 874it [1:13:45,  6.11s/it]
+2024-02-21 08:15:13 | ERROR | stderr | 875it [1:13:48,  5.29s/it]
+2024-02-21 08:15:17 | ERROR | stderr | 876it [1:13:53,  5.02s/it]
+2024-02-21 08:15:23 | ERROR | stderr | 877it [1:13:59,  5.49s/it]
+2024-02-21 08:15:30 | ERROR | stderr | 878it [1:14:06,  5.72s/it]
+2024-02-21 08:15:33 | ERROR | stderr | 879it [1:14:09,  5.00s/it]
+2024-02-21 08:15:36 | ERROR | stderr | 880it [1:14:12,  4.29s/it]
+2024-02-21 08:15:42 | ERROR | stderr | 881it [1:14:18,  4.97s/it]
+2024-02-21 08:15:47 | ERROR | stderr | 882it [1:14:23,  5.00s/it]
+2024-02-21 08:15:51 | ERROR | stderr | 883it [1:14:26,  4.45s/it]
+2024-02-21 08:15:57 | ERROR | stderr | 884it [1:14:33,  5.08s/it]
+2024-02-21 08:16:03 | ERROR | stderr | 885it [1:14:39,  5.45s/it]
+2024-02-21 08:16:07 | ERROR | stderr | 886it [1:14:42,  4.80s/it]
+2024-02-21 08:16:12 | ERROR | stderr | 887it [1:14:47,  4.84s/it]
+2024-02-21 08:16:19 | ERROR | stderr | 888it [1:14:55,  5.60s/it]
+2024-02-21 08:16:26 | ERROR | stderr | 889it [1:15:02,  6.05s/it]
+2024-02-21 08:16:29 | ERROR | stderr | 890it [1:15:05,  5.17s/it]
+2024-02-21 08:16:32 | ERROR | stderr | 891it [1:15:08,  4.41s/it]
+2024-02-21 08:16:38 | ERROR | stderr | 892it [1:15:14,  4.98s/it]
+2024-02-21 08:16:43 | ERROR | stderr | 893it [1:15:18,  4.84s/it]
+2024-02-21 08:16:46 | ERROR | stderr | 894it [1:15:22,  4.34s/it]
+2024-02-21 08:16:52 | ERROR | stderr | 895it [1:15:27,  4.77s/it]
+2024-02-21 08:16:58 | ERROR | stderr | 896it [1:15:34,  5.23s/it]
+2024-02-21 08:17:01 | ERROR | stderr | 897it [1:15:37,  4.63s/it]
+2024-02-21 08:17:08 | ERROR | stderr | 898it [1:15:44,  5.39s/it]
+2024-02-21 08:17:08 | ERROR | stderr | /root/miniconda3/envs/llm-home/lib/python3.10/site-packages/transformers/generation/utils.py:1141: UserWarning: Input length of input_ids is 627, but `max_length` is set to 20. This can lead to unexpected behavior. You should consider increasing `max_new_tokens`.
+2024-02-21 08:17:08 | ERROR | stderr |   warnings.warn(
+2024-02-21 08:17:17 | ERROR | stderr | 899it [1:15:53,  6.43s/it]
+2024-02-21 08:17:20 | ERROR | stderr | 900it [1:15:56,  5.42s/it]
+2024-02-21 08:17:26 | ERROR | stderr | 901it [1:16:02,  5.66s/it]
+2024-02-21 08:17:31 | ERROR | stderr | 902it [1:16:07,  5.34s/it]
+2024-02-21 08:17:31 | ERROR | stderr | /root/miniconda3/envs/llm-home/lib/python3.10/site-packages/transformers/generation/utils.py:1141: UserWarning: Input length of input_ids is 560, but `max_length` is set to 20. This can lead to unexpected behavior. You should consider increasing `max_new_tokens`.
+2024-02-21 08:17:31 | ERROR | stderr |   warnings.warn(
+2024-02-21 08:17:39 | ERROR | stderr | 903it [1:16:15,  6.13s/it]
+2024-02-21 08:17:43 | ERROR | stderr | 904it [1:16:19,  5.60s/it]
+2024-02-21 08:17:46 | ERROR | stderr | 905it [1:16:22,  4.66s/it]
+2024-02-21 08:17:46 | ERROR | stderr | /root/miniconda3/envs/llm-home/lib/python3.10/site-packages/transformers/generation/utils.py:1141: UserWarning: Input length of input_ids is 291, but `max_length` is set to 20. This can lead to unexpected behavior. You should consider increasing `max_new_tokens`.
+2024-02-21 08:17:46 | ERROR | stderr |   warnings.warn(
+2024-02-21 08:17:49 | ERROR | stderr | 906it [1:16:25,  4.16s/it]
+2024-02-21 08:17:56 | ERROR | stderr | 907it [1:16:32,  5.08s/it]
+2024-02-21 08:18:01 | ERROR | stderr | 908it [1:16:37,  4.98s/it]
+2024-02-21 08:18:07 | ERROR | stderr | 909it [1:16:43,  5.42s/it]
+2024-02-21 08:18:12 | ERROR | stderr | 910it [1:16:47,  5.09s/it]
+2024-02-21 08:18:15 | ERROR | stderr | 911it [1:16:51,  4.56s/it]
+2024-02-21 08:18:18 | ERROR | stderr | 912it [1:16:54,  4.18s/it]
+2024-02-21 08:18:21 | ERROR | stderr | 913it [1:16:57,  3.83s/it]
+2024-02-21 08:18:26 | ERROR | stderr | 914it [1:17:02,  4.05s/it]
+2024-02-21 08:18:30 | ERROR | stderr | 915it [1:17:06,  4.21s/it]
+2024-02-21 08:18:33 | ERROR | stderr | 916it [1:17:09,  3.74s/it]
+2024-02-21 08:18:33 | ERROR | stderr | /root/miniconda3/envs/llm-home/lib/python3.10/site-packages/transformers/generation/utils.py:1141: UserWarning: Input length of input_ids is 474, but `max_length` is set to 20. This can lead to unexpected behavior. You should consider increasing `max_new_tokens`.
+2024-02-21 08:18:33 | ERROR | stderr |   warnings.warn(
+2024-02-21 08:18:40 | ERROR | stderr | 917it [1:17:16,  4.76s/it]
+2024-02-21 08:18:45 | ERROR | stderr | 918it [1:17:21,  4.86s/it]
+2024-02-21 08:18:45 | ERROR | stderr | /root/miniconda3/envs/llm-home/lib/python3.10/site-packages/transformers/generation/utils.py:1141: UserWarning: Input length of input_ids is 543, but `max_length` is set to 20. This can lead to unexpected behavior. You should consider increasing `max_new_tokens`.
+2024-02-21 08:18:45 | ERROR | stderr |   warnings.warn(
+2024-02-21 08:18:53 | ERROR | stderr | 919it [1:17:29,  5.73s/it]
+2024-02-21 08:18:56 | ERROR | stderr | 920it [1:17:32,  4.93s/it]
+2024-02-21 08:19:01 | ERROR | stderr | 921it [1:17:36,  4.80s/it]
+2024-02-21 08:19:05 | ERROR | stderr | 922it [1:17:41,  4.76s/it]
+2024-02-21 08:19:11 | ERROR | stderr | 923it [1:17:47,  5.20s/it]
+2024-02-21 08:19:18 | ERROR | stderr | 924it [1:17:54,  5.70s/it]
+2024-02-21 08:19:21 | ERROR | stderr | 925it [1:17:57,  4.92s/it]
+2024-02-21 08:19:25 | ERROR | stderr | 926it [1:18:01,  4.47s/it]
+2024-02-21 08:19:29 | ERROR | stderr | 927it [1:18:05,  4.42s/it]
+2024-02-21 08:19:32 | ERROR | stderr | 928it [1:18:08,  3.91s/it]
+2024-02-21 08:19:37 | ERROR | stderr | 929it [1:18:12,  4.14s/it]
+2024-02-21 08:19:43 | ERROR | stderr | 930it [1:18:18,  4.71s/it]
+2024-02-21 08:19:49 | ERROR | stderr | 931it [1:18:25,  5.30s/it]
+2024-02-21 08:19:55 | ERROR | stderr | 932it [1:18:31,  5.42s/it]
+2024-02-21 08:19:55 | ERROR | stderr | /root/miniconda3/envs/llm-home/lib/python3.10/site-packages/transformers/generation/utils.py:1141: UserWarning: Input length of input_ids is 222, but `max_length` is set to 20. This can lead to unexpected behavior. You should consider increasing `max_new_tokens`.
+2024-02-21 08:19:55 | ERROR | stderr |   warnings.warn(
+2024-02-21 08:19:57 | ERROR | stderr | 933it [1:18:33,  4.48s/it]
+2024-02-21 08:20:04 | ERROR | stderr | 934it [1:18:40,  5.25s/it]
+2024-02-21 08:20:12 | ERROR | stderr | 935it [1:18:48,  6.04s/it]
+2024-02-21 08:20:18 | ERROR | stderr | 936it [1:18:53,  5.87s/it]
+2024-02-21 08:20:26 | ERROR | stderr | 937it [1:19:02,  6.71s/it]
+2024-02-21 08:20:33 | ERROR | stderr | 938it [1:19:09,  6.69s/it]
+2024-02-21 08:20:39 | ERROR | stderr | 939it [1:19:15,  6.43s/it]
+2024-02-21 08:20:46 | ERROR | stderr | 940it [1:19:21,  6.56s/it]
+2024-02-21 08:20:54 | ERROR | stderr | 941it [1:19:30,  7.04s/it]
+2024-02-21 08:20:58 | ERROR | stderr | 942it [1:19:34,  6.19s/it]
+2024-02-21 08:21:03 | ERROR | stderr | 943it [1:19:39,  5.79s/it]
+2024-02-21 08:21:08 | ERROR | stderr | 944it [1:19:44,  5.60s/it]
+2024-02-21 08:21:08 | ERROR | stderr | /root/miniconda3/envs/llm-home/lib/python3.10/site-packages/transformers/generation/utils.py:1141: UserWarning: Input length of input_ids is 236, but `max_length` is set to 20. This can lead to unexpected behavior. You should consider increasing `max_new_tokens`.
+2024-02-21 08:21:08 | ERROR | stderr |   warnings.warn(
+2024-02-21 08:21:10 | ERROR | stderr | 945it [1:19:46,  4.63s/it]
+2024-02-21 08:21:15 | ERROR | stderr | 946it [1:19:50,  4.51s/it]
+2024-02-21 08:21:22 | ERROR | stderr | 947it [1:19:58,  5.29s/it]
+2024-02-21 08:21:26 | ERROR | stderr | 948it [1:20:01,  4.84s/it]
+2024-02-21 08:21:29 | ERROR | stderr | 949it [1:20:05,  4.35s/it]
+2024-02-21 08:21:36 | ERROR | stderr | 950it [1:20:12,  5.29s/it]
+2024-02-21 08:21:40 | ERROR | stderr | 951it [1:20:16,  4.99s/it]
+2024-02-21 08:21:46 | ERROR | stderr | 952it [1:20:21,  4.99s/it]
+2024-02-21 08:21:50 | ERROR | stderr | 953it [1:20:26,  4.97s/it]
+2024-02-21 08:21:57 | ERROR | stderr | 954it [1:20:32,  5.33s/it]
+2024-02-21 08:21:59 | ERROR | stderr | 955it [1:20:35,  4.49s/it]
+2024-02-21 08:22:01 | ERROR | stderr | 956it [1:20:37,  3.86s/it]
+2024-02-21 08:22:04 | ERROR | stderr | 957it [1:20:40,  3.46s/it]
+2024-02-21 08:22:07 | ERROR | stderr | 958it [1:20:42,  3.22s/it]
+2024-02-21 08:22:07 | ERROR | stderr | /root/miniconda3/envs/llm-home/lib/python3.10/site-packages/transformers/generation/utils.py:1141: UserWarning: Input length of input_ids is 453, but `max_length` is set to 20. This can lead to unexpected behavior. You should consider increasing `max_new_tokens`.
+2024-02-21 08:22:07 | ERROR | stderr |   warnings.warn(
+2024-02-21 08:22:13 | ERROR | stderr | 959it [1:20:49,  4.25s/it]
+2024-02-21 08:22:18 | ERROR | stderr | 960it [1:20:54,  4.29s/it]
+2024-02-21 08:22:22 | ERROR | stderr | 961it [1:20:58,  4.35s/it]
+2024-02-21 08:22:29 | ERROR | stderr | 962it [1:21:05,  5.03s/it]
+2024-02-21 08:22:36 | ERROR | stderr | 963it [1:21:11,  5.57s/it]
+2024-02-21 08:22:39 | ERROR | stderr | 964it [1:21:14,  4.77s/it]
+2024-02-21 08:22:42 | ERROR | stderr | 965it [1:21:18,  4.32s/it]
+2024-02-21 08:22:45 | ERROR | stderr | 966it [1:21:21,  4.00s/it]
+2024-02-21 08:22:51 | ERROR | stderr | 967it [1:21:27,  4.65s/it]
+2024-02-21 08:22:51 | ERROR | stderr | /root/miniconda3/envs/llm-home/lib/python3.10/site-packages/transformers/generation/utils.py:1141: UserWarning: Input length of input_ids is 225, but `max_length` is set to 20. This can lead to unexpected behavior. You should consider increasing `max_new_tokens`.
+2024-02-21 08:22:51 | ERROR | stderr |   warnings.warn(
+2024-02-21 08:22:53 | ERROR | stderr | 968it [1:21:29,  3.70s/it]
+2024-02-21 08:22:59 | ERROR | stderr | 969it [1:21:35,  4.42s/it]
+2024-02-21 08:23:02 | ERROR | stderr | 970it [1:21:38,  4.06s/it]
+2024-02-21 08:23:09 | ERROR | stderr | 971it [1:21:44,  4.80s/it]
+2024-02-21 08:23:13 | ERROR | stderr | 972it [1:21:49,  4.69s/it]
+2024-02-21 08:23:20 | ERROR | stderr | 973it [1:21:55,  5.26s/it]
+2024-02-21 08:23:26 | ERROR | stderr | 974it [1:22:02,  5.55s/it]
+2024-02-21 08:23:32 | ERROR | stderr | 975it [1:22:08,  5.65s/it]
+2024-02-21 08:23:38 | ERROR | stderr | 976it [1:22:14,  5.85s/it]
+2024-02-21 08:23:45 | ERROR | stderr | 977it [1:22:20,  6.07s/it]
+2024-02-21 08:23:48 | ERROR | stderr | 978it [1:22:24,  5.20s/it]
+2024-02-21 08:23:51 | ERROR | stderr | 979it [1:22:27,  4.56s/it]
+2024-02-21 08:23:55 | ERROR | stderr | 980it [1:22:31,  4.56s/it]
+2024-02-21 08:24:02 | ERROR | stderr | 981it [1:22:37,  5.04s/it]
+2024-02-21 08:24:06 | ERROR | stderr | 982it [1:22:41,  4.71s/it]
+2024-02-21 08:24:12 | ERROR | stderr | 983it [1:22:48,  5.36s/it]
+2024-02-21 08:24:15 | ERROR | stderr | 984it [1:22:51,  4.64s/it]
+2024-02-21 08:24:19 | ERROR | stderr | 985it [1:22:54,  4.24s/it]
+2024-02-21 08:24:21 | ERROR | stderr | 986it [1:22:57,  3.81s/it]
+2024-02-21 08:24:25 | ERROR | stderr | 987it [1:23:00,  3.58s/it]
+2024-02-21 08:24:28 | ERROR | stderr | 988it [1:23:03,  3.42s/it]
+2024-02-21 08:24:28 | ERROR | stderr | /root/miniconda3/envs/llm-home/lib/python3.10/site-packages/transformers/generation/utils.py:1141: UserWarning: Input length of input_ids is 567, but `max_length` is set to 20. This can lead to unexpected behavior. You should consider increasing `max_new_tokens`.
+2024-02-21 08:24:28 | ERROR | stderr |   warnings.warn(
+2024-02-21 08:24:37 | ERROR | stderr | 989it [1:23:13,  5.18s/it]
+2024-02-21 08:24:46 | ERROR | stderr | 990it [1:23:22,  6.43s/it]
+2024-02-21 08:24:54 | ERROR | stderr | 991it [1:23:30,  6.99s/it]
+2024-02-21 08:24:57 | ERROR | stderr | 992it [1:23:33,  5.60s/it]
+2024-02-21 08:25:02 | ERROR | stderr | 993it [1:23:38,  5.55s/it]
+2024-02-21 08:25:06 | ERROR | stderr | 994it [1:23:42,  5.05s/it]
+2024-02-21 08:25:09 | ERROR | stderr | 995it [1:23:45,  4.47s/it]
+2024-02-21 08:25:13 | ERROR | stderr | 996it [1:23:49,  4.38s/it]
+2024-02-21 08:25:21 | ERROR | stderr | 997it [1:23:57,  5.29s/it]
+2024-02-21 08:25:29 | ERROR | stderr | 998it [1:24:05,  6.17s/it]
+2024-02-21 08:25:35 | ERROR | stderr | 999it [1:24:11,  6.14s/it]
+2024-02-21 08:25:39 | ERROR | stderr | 1000it [1:24:15,  5.48s/it]
+2024-02-21 08:25:43 | ERROR | stderr | 1001it [1:24:19,  5.11s/it]
+2024-02-21 08:25:43 | ERROR | stderr | /root/miniconda3/envs/llm-home/lib/python3.10/site-packages/transformers/generation/utils.py:1141: UserWarning: Input length of input_ids is 687, but `max_length` is set to 20. This can lead to unexpected behavior. You should consider increasing `max_new_tokens`.
+2024-02-21 08:25:43 | ERROR | stderr |   warnings.warn(
+2024-02-21 08:25:54 | ERROR | stderr | 1002it [1:24:29,  6.64s/it]
+2024-02-21 08:25:59 | ERROR | stderr | 1003it [1:24:35,  6.28s/it]
+2024-02-21 08:26:05 | ERROR | stderr | 1004it [1:24:41,  6.32s/it]
+2024-02-21 08:26:12 | ERROR | stderr | 1005it [1:24:48,  6.40s/it]
+2024-02-21 08:26:15 | ERROR | stderr | 1006it [1:24:51,  5.43s/it]
+2024-02-21 08:26:21 | ERROR | stderr | 1007it [1:24:57,  5.58s/it]
+2024-02-21 08:26:26 | ERROR | stderr | 1008it [1:25:02,  5.39s/it]
+2024-02-21 08:26:31 | ERROR | stderr | 1009it [1:25:07,  5.26s/it]
+2024-02-21 08:26:36 | ERROR | stderr | 1010it [1:25:11,  5.07s/it]
+2024-02-21 08:26:38 | ERROR | stderr | 1011it [1:25:14,  4.37s/it]
+2024-02-21 08:26:44 | ERROR | stderr | 1012it [1:25:20,  4.67s/it]
+2024-02-21 08:26:50 | ERROR | stderr | 1013it [1:25:26,  5.19s/it]
+2024-02-21 08:26:57 | ERROR | stderr | 1014it [1:25:32,  5.56s/it]
+2024-02-21 08:27:00 | ERROR | stderr | 1015it [1:25:36,  4.88s/it]
+2024-02-21 08:27:02 | ERROR | stderr | 1016it [1:25:38,  4.19s/it]
+2024-02-21 08:27:02 | ERROR | stderr | /root/miniconda3/envs/llm-home/lib/python3.10/site-packages/transformers/generation/utils.py:1141: UserWarning: Input length of input_ids is 631, but `max_length` is set to 20. This can lead to unexpected behavior. You should consider increasing `max_new_tokens`.
+2024-02-21 08:27:02 | ERROR | stderr |   warnings.warn(
+2024-02-21 08:27:11 | ERROR | stderr | 1017it [1:25:47,  5.63s/it]
+2024-02-21 08:27:17 | ERROR | stderr | 1018it [1:25:53,  5.71s/it]
+2024-02-21 08:27:22 | ERROR | stderr | 1019it [1:25:58,  5.43s/it]
+2024-02-21 08:27:26 | ERROR | stderr | 1020it [1:26:02,  4.97s/it]
+2024-02-21 08:27:33 | ERROR | stderr | 1021it [1:26:09,  5.73s/it]
+2024-02-21 08:27:40 | ERROR | stderr | 1022it [1:26:16,  5.93s/it]
+2024-02-21 08:27:43 | ERROR | stderr | 1023it [1:26:19,  5.05s/it]
+2024-02-21 08:27:46 | ERROR | stderr | 1024it [1:26:22,  4.43s/it]
+2024-02-21 08:27:51 | ERROR | stderr | 1025it [1:26:27,  4.55s/it]
+2024-02-21 08:27:56 | ERROR | stderr | 1026it [1:26:32,  4.93s/it]
+2024-02-21 08:28:01 | ERROR | stderr | 1027it [1:26:37,  4.88s/it]
+2024-02-21 08:28:01 | ERROR | stderr | /root/miniconda3/envs/llm-home/lib/python3.10/site-packages/transformers/generation/utils.py:1141: UserWarning: Input length of input_ids is 503, but `max_length` is set to 20. This can lead to unexpected behavior. You should consider increasing `max_new_tokens`.
+2024-02-21 08:28:01 | ERROR | stderr |   warnings.warn(
+2024-02-21 08:28:09 | ERROR | stderr | 1028it [1:26:44,  5.59s/it]
+2024-02-21 08:28:16 | ERROR | stderr | 1029it [1:26:52,  6.25s/it]
+2024-02-21 08:28:21 | ERROR | stderr | 1030it [1:26:57,  5.72s/it]
+2024-02-21 08:28:24 | ERROR | stderr | 1031it [1:27:00,  4.93s/it]
+2024-02-21 08:28:32 | ERROR | stderr | 1032it [1:27:08,  5.83s/it]
+2024-02-21 08:28:38 | ERROR | stderr | 1033it [1:27:14,  5.89s/it]
+2024-02-21 08:28:44 | ERROR | stderr | 1034it [1:27:20,  5.99s/it]
+2024-02-21 08:28:51 | ERROR | stderr | 1035it [1:27:27,  6.19s/it]
+2024-02-21 08:28:55 | ERROR | stderr | 1036it [1:27:31,  5.73s/it]
+2024-02-21 08:29:00 | ERROR | stderr | 1037it [1:27:36,  5.39s/it]
+2024-02-21 08:29:06 | ERROR | stderr | 1038it [1:27:41,  5.47s/it]
+2024-02-21 08:29:12 | ERROR | stderr | 1039it [1:27:48,  5.79s/it]
+2024-02-21 08:29:19 | ERROR | stderr | 1040it [1:27:55,  6.17s/it]
+2024-02-21 08:29:24 | ERROR | stderr | 1041it [1:28:00,  5.84s/it]
+2024-02-21 08:29:29 | ERROR | stderr | 1042it [1:28:04,  5.36s/it]
+2024-02-21 08:29:29 | ERROR | stderr | /root/miniconda3/envs/llm-home/lib/python3.10/site-packages/transformers/generation/utils.py:1141: UserWarning: Input length of input_ids is 682, but `max_length` is set to 20. This can lead to unexpected behavior. You should consider increasing `max_new_tokens`.
+2024-02-21 08:29:29 | ERROR | stderr |   warnings.warn(
+2024-02-21 08:29:38 | ERROR | stderr | 1043it [1:28:14,  6.61s/it]
+2024-02-21 08:29:44 | ERROR | stderr | 1044it [1:28:20,  6.45s/it]
+2024-02-21 08:29:47 | ERROR | stderr | 1045it [1:28:23,  5.49s/it]
+2024-02-21 08:29:47 | ERROR | stderr | /root/miniconda3/envs/llm-home/lib/python3.10/site-packages/transformers/generation/utils.py:1141: UserWarning: Input length of input_ids is 710, but `max_length` is set to 20. This can lead to unexpected behavior. You should consider increasing `max_new_tokens`.
+2024-02-21 08:29:47 | ERROR | stderr |   warnings.warn(
+2024-02-21 08:29:55 | ERROR | stderr | 1046it [1:28:31,  6.25s/it]
+2024-02-21 08:29:59 | ERROR | stderr | 1047it [1:28:34,  5.32s/it]
+2024-02-21 08:30:04 | ERROR | stderr | 1048it [1:28:39,  5.22s/it]
+2024-02-21 08:30:10 | ERROR | stderr | 1049it [1:28:46,  5.69s/it]
+2024-02-21 08:30:10 | ERROR | stderr | /root/miniconda3/envs/llm-home/lib/python3.10/site-packages/transformers/generation/utils.py:1141: UserWarning: Input length of input_ids is 719, but `max_length` is set to 20. This can lead to unexpected behavior. You should consider increasing `max_new_tokens`.
+2024-02-21 08:30:10 | ERROR | stderr |   warnings.warn(
+2024-02-21 08:30:21 | ERROR | stderr | 1050it [1:28:56,  7.08s/it]
+2024-02-21 08:30:27 | ERROR | stderr | 1051it [1:29:03,  6.97s/it]
+2024-02-21 08:30:32 | ERROR | stderr | 1052it [1:29:08,  6.28s/it]
+2024-02-21 08:30:38 | ERROR | stderr | 1053it [1:29:14,  6.30s/it]
+2024-02-21 08:30:43 | ERROR | stderr | 1054it [1:29:19,  5.79s/it]
+2024-02-21 08:30:49 | ERROR | stderr | 1055it [1:29:25,  5.96s/it]
+2024-02-21 08:30:53 | ERROR | stderr | 1056it [1:29:28,  5.16s/it]
+2024-02-21 08:30:56 | ERROR | stderr | 1057it [1:29:32,  4.58s/it]
+2024-02-21 08:30:59 | ERROR | stderr | 1058it [1:29:35,  4.17s/it]
+2024-02-21 08:31:02 | ERROR | stderr | 1059it [1:29:38,  3.94s/it]
+2024-02-21 08:31:10 | ERROR | stderr | 1060it [1:29:46,  5.11s/it]
+2024-02-21 08:31:16 | ERROR | stderr | 1061it [1:29:52,  5.23s/it]
+2024-02-21 08:31:21 | ERROR | stderr | 1062it [1:29:57,  5.31s/it]
+2024-02-21 08:31:28 | ERROR | stderr | 1063it [1:30:04,  5.79s/it]
+2024-02-21 08:31:34 | ERROR | stderr | 1064it [1:30:09,  5.66s/it]
+2024-02-21 08:31:37 | ERROR | stderr | 1065it [1:30:13,  4.97s/it]
+2024-02-21 08:31:37 | ERROR | stderr | /root/miniconda3/envs/llm-home/lib/python3.10/site-packages/transformers/generation/utils.py:1141: UserWarning: Input length of input_ids is 612, but `max_length` is set to 20. This can lead to unexpected behavior. You should consider increasing `max_new_tokens`.
+2024-02-21 08:31:37 | ERROR | stderr |   warnings.warn(
+2024-02-21 08:31:47 | ERROR | stderr | 1066it [1:30:23,  6.48s/it]
+2024-02-21 08:31:56 | ERROR | stderr | 1067it [1:30:32,  7.24s/it]
+2024-02-21 08:32:00 | ERROR | stderr | 1068it [1:30:36,  6.26s/it]
+2024-02-21 08:32:04 | ERROR | stderr | 1069it [1:30:40,  5.62s/it]
+2024-02-21 08:32:11 | ERROR | stderr | 1070it [1:30:47,  5.99s/it]
+2024-02-21 08:32:15 | ERROR | stderr | 1071it [1:30:50,  5.31s/it]
+2024-02-21 08:32:15 | ERROR | stderr | 1071it [1:30:50,  5.09s/it]
+2024-02-21 08:32:15 | ERROR | stderr | 
+2024-02-21 08:39:59 | ERROR | stderr | Traceback (most recent call last):
+2024-02-21 08:39:59 | ERROR | stderr |   File "/home/zhangyh/projs/llm-home/src/inference.py", line 46, in <module>
+2024-02-21 08:39:59 | ERROR | stderr |     df = pd.read_csv(RESULT_DIR + 'cail/ziya2_13b_zeroshot.xlsx')
+2024-02-21 08:39:59 | ERROR | stderr |   File "/root/miniconda3/envs/llm-home/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 1024, in read_csv
+2024-02-21 08:39:59 | ERROR | stderr |     return _read(filepath_or_buffer, kwds)
+2024-02-21 08:39:59 | ERROR | stderr |   File "/root/miniconda3/envs/llm-home/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 618, in _read
+2024-02-21 08:39:59 | ERROR | stderr |     parser = TextFileReader(filepath_or_buffer, **kwds)
+2024-02-21 08:39:59 | ERROR | stderr |   File "/root/miniconda3/envs/llm-home/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 1618, in __init__
+2024-02-21 08:39:59 | ERROR | stderr |     self._engine = self._make_engine(f, self.engine)
+2024-02-21 08:39:59 | ERROR | stderr |   File "/root/miniconda3/envs/llm-home/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 1896, in _make_engine
+2024-02-21 08:39:59 | ERROR | stderr |     return mapping[engine](f, **self.options)
+2024-02-21 08:39:59 | ERROR | stderr |   File "/root/miniconda3/envs/llm-home/lib/python3.10/site-packages/pandas/io/parsers/c_parser_wrapper.py", line 93, in __init__
+2024-02-21 08:39:59 | ERROR | stderr |     self._reader = parsers.TextReader(src, **kwds)
+2024-02-21 08:39:59 | ERROR | stderr |   File "parsers.pyx", line 574, in pandas._libs.parsers.TextReader.__cinit__
+2024-02-21 08:39:59 | ERROR | stderr |   File "parsers.pyx", line 663, in pandas._libs.parsers.TextReader._get_header
+2024-02-21 08:39:59 | ERROR | stderr |   File "parsers.pyx", line 874, in pandas._libs.parsers.TextReader._tokenize_rows
+2024-02-21 08:39:59 | ERROR | stderr |   File "parsers.pyx", line 891, in pandas._libs.parsers.TextReader._check_tokenize_status
+2024-02-21 08:39:59 | ERROR | stderr |   File "parsers.pyx", line 2053, in pandas._libs.parsers.raise_parser_error
+2024-02-21 08:39:59 | ERROR | stderr | UnicodeDecodeError: 'utf-8' codec can't decode byte 0xc1 in position 16: invalid start byte
+2024-02-21 08:40:13 | ERROR | stderr | Traceback (most recent call last):
+2024-02-21 08:40:13 | ERROR | stderr |   File "/home/zhangyh/projs/llm-home/src/inference.py", line 46, in <module>
+2024-02-21 08:40:13 | ERROR | stderr |     df = pd.read_csv(RESULT_DIR + 'cail/ziya2_13b_zeroshot.xlsx')
+2024-02-21 08:40:13 | ERROR | stderr |   File "/root/miniconda3/envs/llm-home/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 1024, in read_csv
+2024-02-21 08:40:13 | ERROR | stderr |     return _read(filepath_or_buffer, kwds)
+2024-02-21 08:40:13 | ERROR | stderr |   File "/root/miniconda3/envs/llm-home/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 618, in _read
+2024-02-21 08:40:13 | ERROR | stderr |     parser = TextFileReader(filepath_or_buffer, **kwds)
+2024-02-21 08:40:13 | ERROR | stderr |   File "/root/miniconda3/envs/llm-home/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 1618, in __init__
+2024-02-21 08:40:13 | ERROR | stderr |     self._engine = self._make_engine(f, self.engine)
+2024-02-21 08:40:13 | ERROR | stderr |   File "/root/miniconda3/envs/llm-home/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 1896, in _make_engine
+2024-02-21 08:40:13 | ERROR | stderr |     return mapping[engine](f, **self.options)
+2024-02-21 08:40:13 | ERROR | stderr |   File "/root/miniconda3/envs/llm-home/lib/python3.10/site-packages/pandas/io/parsers/c_parser_wrapper.py", line 93, in __init__
+2024-02-21 08:40:13 | ERROR | stderr |     self._reader = parsers.TextReader(src, **kwds)
+2024-02-21 08:40:13 | ERROR | stderr |   File "parsers.pyx", line 574, in pandas._libs.parsers.TextReader.__cinit__
+2024-02-21 08:40:13 | ERROR | stderr |   File "parsers.pyx", line 663, in pandas._libs.parsers.TextReader._get_header
+2024-02-21 08:40:13 | ERROR | stderr |   File "parsers.pyx", line 874, in pandas._libs.parsers.TextReader._tokenize_rows
+2024-02-21 08:40:13 | ERROR | stderr |   File "parsers.pyx", line 891, in pandas._libs.parsers.TextReader._check_tokenize_status
+2024-02-21 08:40:13 | ERROR | stderr |   File "parsers.pyx", line 2053, in pandas._libs.parsers.raise_parser_error
+2024-02-21 08:40:13 | ERROR | stderr | UnicodeDecodeError: 'utf-8' codec can't decode byte 0xc1 in position 16: invalid start byte
+2024-02-21 08:40:37 | INFO | stdout |       Unnamed: 0  ...                                             output
+2024-02-21 08:40:37 | INFO | stdout | 0              0  ...  ["现在你是一名优秀的法律从业者，请专业、详尽的回答用户提问。\n注意：你需要遵循以下规则：...
+2024-02-21 08:40:37 | INFO | stdout | 1              1  ...  ["现在你是一名优秀的法律从业者，请专业、详尽的回答用户提问。\n注意：你需要遵循以下规则：...
+2024-02-21 08:40:37 | INFO | stdout | 2              2  ...  ["现在你是一名优秀的法律从业者，请专业、详尽的回答用户提问。\n注意：你需要遵循以下规则：...
+2024-02-21 08:40:37 | INFO | stdout | 3              3  ...  ["现在你是一名优秀的法律从业者，请专业、详尽的回答用户提问。\n注意：你需要遵循以下规则：...
+2024-02-21 08:40:37 | INFO | stdout | 4              4  ...  ["现在你是一名优秀的法律从业者，请专业、详尽的回答用户提问。\n注意：你需要遵循以下规则：...
+2024-02-21 08:40:37 | INFO | stdout | ...          ...  ...                                                ...
+2024-02-21 08:40:37 | INFO | stdout | 1066        1066  ...  ["现在你是一名优秀的法律从业者，请专业、详尽的回答用户提问。\n注意：你需要遵循以下规则：...
+2024-02-21 08:40:37 | INFO | stdout | 1067        1067  ...  ["现在你是一名优秀的法律从业者，请专业、详尽的回答用户提问。\n注意：你需要遵循以下规则：...
+2024-02-21 08:40:37 | INFO | stdout | 1068        1068  ...  ["现在你是一名优秀的法律从业者，请专业、详尽的回答用户提问。\n注意：你需要遵循以下规则：...
+2024-02-21 08:40:37 | INFO | stdout | 1069        1069  ...  ["现在你是一名优秀的法律从业者，请专业、详尽的回答用户提问。\n注意：你需要遵循以下规则：...
+2024-02-21 08:40:37 | INFO | stdout | 1070        1070  ...  ["现在你是一名优秀的法律从业者，请专业、详尽的回答用户提问。\n注意：你需要遵循以下规则：...
+2024-02-21 08:40:37 | INFO | stdout | 
+2024-02-21 08:40:37 | INFO | stdout | [1071 rows x 5 columns]
+2024-02-21 08:41:39 | INFO | stdout | 0       ['A', 'B', 'C', 'D']
+2024-02-21 08:41:39 | INFO | stdout | 1                      ['B']
+2024-02-21 08:41:39 | INFO | stdout | 2       ['A', 'B', 'C', 'D']
+2024-02-21 08:41:39 | INFO | stdout | 3            ['B', 'C', 'D']
+2024-02-21 08:41:39 | INFO | stdout | 4                      ['A']
+2024-02-21 08:41:39 | INFO | stdout |                 ...
+2024-02-21 08:41:39 | INFO | stdout | 1066                   ['B']
+2024-02-21 08:41:39 | INFO | stdout | 1067                   ['A']
+2024-02-21 08:41:39 | INFO | stdout | 1068              ['B', 'C']
+2024-02-21 08:41:39 | INFO | stdout | 1069                   ['C']
+2024-02-21 08:41:39 | INFO | stdout | 1070                   ['D']
+2024-02-21 08:41:39 | INFO | stdout | Name: ans, Length: 1071, dtype: object
