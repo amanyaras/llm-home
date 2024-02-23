@@ -1,3 +1,6 @@
+import os
+import sys
+sys.path.insert(0, "/home/zhangyh/projs/llm-home/src")
 from builtins import print
 from time import sleep
 # from langchain.document_loaders import UnstructuredFileLoader, TextLoader, DirectoryLoader, JSONLoader
@@ -6,11 +9,12 @@ from langchain.vectorstores.faiss import FAISS
 from langchain_faiss.config import Config
 from langchain_faiss.utils.AliTextSplitter import AliTextSplitter
 import json
-import os
+
 import pandas as pd
 from typing import List, Tuple, Dict
 from sentence_transformers import SentenceTransformer
 # os.environ["CUDA_VISIBLE_DEVICES"] = "3"
+
 
 class DocumentService(object):
     def __init__(self):
@@ -110,6 +114,27 @@ class DocumentService(object):
 
 if __name__ == '__main__':
     s = DocumentService()
+    all_data = []
+    for root, dirs, files in os.walk("/home/zhangyh/projs/llm-home/cail_data/reference_book/"):
+        for file in files:
+            if file.endswith('.txt'):
+                # 打印或处理找到的txt文件
+                file_path = os.path.join(root, file)
+                with open(file_path, "r", encoding="utf-8") as R:
+                    content = R.read()
+                    tmp_lst = eval(content)
+                    all_data += tmp_lst
+    print(len(all_data))
+
+    fassi = FAISS.from_texts(all_data, s.embeddings)
+    fassi.save_local("/home/zhangyh/projs/llm-home/src/langchain_faiss/data/faiss/bge-chinese-1.5")
+
+
+    # fassi = FAISS.load_local(Config.vector_store_path, embeddings=s.embeddings)
+    #
+    result = fassi.similarity_search_with_relevance_scores(query="Mate9 Pro(LON-TL00)".lower(), k=10)
+
+    """
     data = pd.read_excel("/home/zhangyh/FastChat-main/fastchat/serve/langchain_faiss/data/已解密_副本机型支持模板2_去重.xlsx") \
     .to_numpy().tolist()
     with open("/home/zhangyh/FastChat-main/fastchat/serve/langchain_faiss/data/json/types_new.txt", 'r') as R:
@@ -153,3 +178,4 @@ if __name__ == '__main__':
     # print(results)
     ###将文本分块向量化存储起来
     # s.init_source_vector()
+    """

@@ -1,10 +1,11 @@
 import json
 from tqdm import tqdm
-from constant import PROMPT, TEST_DATA_PATH, RESULT_DIR, MODEL_PATH, LOG_DIR, PROMPT_Qwen
+from constant import PROMPT_BASE, TEST_DATA_PATH, RESULT_DIR, MODEL_PATH, LOG_DIR, PROMPT_Qwen
 from transformers import AutoTokenizer, AutoModelForCausalLM
 from fastchat.utils import build_logger
 LOG_DIR = LOG_DIR
 # logger = build_logger("ziya2_13b", "ziya2_13b_0")
+device = "cuda"
 
 question_list = []
 choice_list = []
@@ -21,7 +22,10 @@ def get_dataset():
 if __name__ == "__main__":
 
     from pandas import DataFrame
-    model = AutoModelForCausalLM.from_pretrained(MODEL_PATH + "Qwen-14B-Chat-Int8", trust_remote_code=True)
+    model = AutoModelForCausalLM.from_pretrained(MODEL_PATH + "Qwen-14B-Chat-Int8",
+                                                 torch_dtype="auto",
+                                                 device_map="auto",
+                                                 trust_remote_code=True)
     tokenizer = AutoTokenizer.from_pretrained(MODEL_PATH + "Qwen-14B-Chat-Int8", trust_remote_code=True,
                                               use_fast=False)
     for i, itm in tqdm(enumerate(get_dataset())):
